@@ -5,8 +5,8 @@ require 'csv'
 require 'pry'
 require 'scraped'
 
-require 'open-uri/cached'
-OpenURI::Cache.cache_path = '.cache'
+# require 'open-uri/cached'
+# OpenURI::Cache.cache_path = '.cache'
 
 class MembersList < Scraped::JSON
   field :members do
