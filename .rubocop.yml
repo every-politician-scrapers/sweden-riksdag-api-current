@@ -1,0 +1,6 @@
+AllCops:
+  Exclude:
+    - 'Vagrantfile'
+    - 'vendor/**/*'
+  TargetRubyVersion: 2.6
+
