@@ -24,7 +24,7 @@ id,sourceid,name,party,area,seat,start
 0460690753617,d6a34e6b-6f87-455c-ab36-fd75292f0ed0,Pia Nilsson,S,Västmanlands län,23,2018-09-24
 0227802801605,0363ee54-6077-4caf-b7d6-09dcb7051213,Thomas Hammarberg,S,Stockholms kommun,24,2019-09-05
 0970259744617,d7c329da-83e4-11d4-ae60-0050040c9b55,Margareta Cederfelt,M,Stockholms kommun,25,2018-09-24
-0474290584024,c325b529-3455-44a2-acd2-597698b321a6,Azadeh Rojhan Gustafsson,S,Stockholms län,26,2019-02-01
+0497217816024,4da8bb6b-fc06-4f3a-ba25-f70dfe5eb5a7,Markus Selin,S,Stockholms län,26,2020-08-01
 0999976269027,d12313ba-680b-4784-b858-5c9e6db692e7,Amanda Palmstierna,MP,Stockholms län,27,2019-10-01
 0541320528015,241a3fd7-124c-4e9e-ac01-9083f36b3295,Nina Lundström,L,Stockholms län,28,2019-11-01
 0363721826713,66c12cfb-4888-443a-9e31-f64671296908,Per Lodenius,C,Stockholms län,29,2018-09-24
@@ -50,7 +50,7 @@ id,sourceid,name,party,area,seat,start
 0519740099915,243f0434-ae15-41b4-92b6-146a0fb0700a,Saila Quicklund,M,Jämtlands län,49,2018-09-24
 0222691314314,e7e4132a-b4df-11d5-8079-0040ca16072a,Ulf Kristersson,M,Stockholms kommun,50,2018-09-24
 0766496753128,cf017275-5272-4506-a686-4e1d8edc5ab6,Fredrik Malm,L,Stockholms kommun,51,2018-09-24
-0497217816024,4da8bb6b-fc06-4f3a-ba25-f70dfe5eb5a7,Markus Selin,S,Stockholms län,52,2019-02-01
+0488332307829,4f8c750f-e0e5-4011-bfda-31a41f4b5996,Abraham Halef,S,Stockholms län,52,2020-08-01
 0210198640127,b22cb715-79b0-4610-988f-e344f13a8cd4,Fredrik Schulte,M,Stockholms län,53,2019-07-02
 0545353563812,8399ff3f-1fbe-4984-b59c-4ada1ec670ec,Amineh Kakabaveh,-,Stockholms län,54,2018-09-24
 0313390540217,9cd4ce1a-c1f5-4743-aed6-8e60569e9947,Ingela Nylund Watz,S,Stockholms län,55,2018-09-24
@@ -112,7 +112,7 @@ id,sourceid,name,party,area,seat,start
 0860429409414,f03ff45a-c476-11d4-ae40-006008578ce8,Désirée Pethrus,KD,Stockholms kommun,111,2019-01-01
 0603366539729,b25b78e6-540a-4b6d-8a54-e365587df379,Malin Danielsson,L,Stockholms län,112,2020-02-01
 0932000030511,ee32e119-fdfe-4e00-b136-b2102d79b2a6,Maria Stockhaus,M,Stockholms län,113,2018-09-24
-0502688311316,fb0337ec-a1b0-440e-b9b4-a48e99fd415c,Anna Vikström,S,Stockholms län,114,2018-09-24
+0474290584024,c325b529-3455-44a2-acd2-597698b321a6,Azadeh Rojhan Gustafsson,S,Stockholms län,114,2020-08-01
 0376353897112,bdd26f21-dca7-4e7c-af32-131937aa539b,Leif Nysmed,S,Stockholms län,115,2018-09-24
 0846730583715,bbb1430f-1f7d-4768-b1fc-3f69e158300c,Monika Lövgren,SD,Uppsala län,116,2020-02-29
 0506541436524,1d28738c-16d7-48f3-bb2a-e8cdcf348ca1,Sanne Lennström,S,Uppsala län,117,2020-05-18
@@ -246,7 +246,7 @@ id,sourceid,name,party,area,seat,start
 0495661214429,087644a0-838d-4768-9133-62745aeee287,Lorentz Tovatt,MP,Stockholms kommun,245,2018-09-24
 0194021108712,eda7cbeb-16f4-4a35-b0cd-ca4158e60906,Mikael Strandman,SD,Stockholms län,246,2018-09-24
 0333193598116,24c753af-11ea-4c6f-90f9-f4142fc71e19,Bo Broman,SD,Stockholms län,247,2018-09-24
-0505783078517,19fab9cf-9ed3-4cf9-9a04-f9d0eedeaec9,Helene Hellmark Knutsson,S,Stockholms län,248,2019-01-22
+0502688311316,fb0337ec-a1b0-440e-b9b4-a48e99fd415c,Anna Vikström,S,Stockholms län,248,2020-08-01
 0819601620927,a9346ffe-2c1f-4e2b-b686-d8248a3d0db2,Annika Hirvonen Falk,MP,Stockholms län,249,2019-06-19
 0537400268911,ae67201e-c2ea-4c8d-8a62-54f12be55778,Caroline Helmersson Olsson,S,Södermanlands län,250,2018-09-24
 0475778011711,b6fe54d6-ffc7-4435-9326-5baf132b3338,Hans Ekström,S,Södermanlands län,251,2018-09-24
