@@ -2,7 +2,7 @@ name: Scrape latest data
 
 on:
   schedule:
-    - cron:  '14 10 * * *'
+    - cron: '14 10 * * *'
 
 jobs:
   scheduled:
@@ -15,8 +15,12 @@ jobs:
         ruby-version: 2.6
     - name: Install dependencies
       run: bundle install
-    - name: Run scraper
+    - name: Scrape official site
       run: bundle exec ruby bin/scraper/official.rb | tee data/official.csv
+    - name: Get current wikidata list
+      run: bundle exec ruby bin/scraper/wikidata.rb | tee data/wikidata.csv
+    - name: Generate diff
+      run: bundle exec ruby bin/diff.rb | tee data/diff.csv
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
