@@ -84,7 +84,7 @@ id,sourceid,name,party,area,seat,start
 0638497389621,04727b66-64cd-4880-be85-dc8fe873bf8d,Julia Kronlid,SD,Stockholms län,83,2018-09-24
 0166790812128,b86c28d2-48d1-41a6-bea3-b3317cdfeec8,Hanif Bali,M,Stockholms län,84,2018-09-24
 0982795248728,0ab695ba-6994-11d7-ae76-0004755038ce,Jakob Forssmed,KD,Stockholms län,85,2020-02-21
-0732677378827,c994a157-6301-46d2-a111-abe58ec220f4,Marta Obminska,M,Uppsala län,86,2018-09-24
+0397924710612,ca44a628-ee7f-4760-a56a-6ac195740ba0,Ulrika Karlsson,M,Uppsala län,86,2021-04-26
 075747847023,82c56b96-b106-4b16-958c-98b153d02639,Gustaf Lantz,S,Uppsala län,87,2020-12-16
 0860364634014,df8c5ae3-43e8-4d8a-bf64-67b9a78fef66,Mattias Ottosson,S,Östergötlands län,88,2018-09-24
 0150118366721,1c03e794-a9a3-43d5-810a-7951e4c70901,Linda Westerlund Snecker,V,Östergötlands län,89,2018-09-24
@@ -172,7 +172,7 @@ id,sourceid,name,party,area,seat,start
 014386615025,979e9852-69ed-4077-8140-52ab99414a6c,Ali Esbati,V,Stockholms kommun,171,2018-09-24
 0204443909416,6014c0f6-d3b6-4ed4-ae63-ace3af71dc86,Johan Hedin,C,Stockholms kommun,172,2021-03-01
 0246927519019,b250135d-d424-497a-8484-36cb6c0dbf3d,Karin Rågsjö,V,Stockholms kommun,173,2018-09-24
-0496341906327,f96150c2-6e1c-4e3f-bc7f-2503f3cc9ede,Alexandra Völker,S,Stockholms län,174,2019-08-01
+0323000187920,e7479c89-0534-4762-baa4-2517b636dde2,Solange Olame Bayibsa,S,Stockholms län,174,2021-06-01
 0604811710522,e8a2c04d-a186-421b-b1fd-a401f0917673,Ida Drougge,M,Stockholms län,175,2019-09-10
 0955748436811,0cb27c59-4f9e-4d84-a8e2-f45325b5a93c,Robert Stenkvist,SD,Stockholms län,176,2018-09-24
 0256716955026,f2597c6d-8286-457a-9d62-6243f260af40,Serkan Köse,S,Stockholms län,177,2018-09-24
@@ -208,7 +208,7 @@ id,sourceid,name,party,area,seat,start
 0721509806321,78d79a96-956f-4ac3-bbf7-2b15b3d86ce7,Nooshi Dadgostar,V,Stockholms kommun,207,2020-03-01
 037561614928,285a3d5f-cb32-4958-9b7c-1545b2faff18,Lawen Redar,S,Stockholms kommun,208,2018-09-24
 0277648711624,df3988c4-9541-465c-b02e-1410c3d31155,Anders Österberg,S,Stockholms kommun,209,2018-09-24
-0323000187920,e7479c89-0534-4762-baa4-2517b636dde2,Solange Olame Bayibsa,S,Stockholms län,210,2020-12-01
+0613297818326,2091e357-e195-430b-8dab-7e13732ffa41,Mathias Tegnér,S,Stockholms län,210,2021-06-01
 0832311880029,0f90ef03-a652-45a1-b697-39a33b32e512,Erik Ottoson,M,Stockholms län,211,2021-02-01
 0866055333028,8310e472-996b-4c8a-bce5-4d09fb20a66a,Alexandra Anstrell,M,Stockholms län,212,2018-09-24
 0779329190517,3ce8f147-129f-412c-b6ad-db566d53b1db,Kjell Jansson,M,Stockholms län,213,2018-09-24
@@ -220,7 +220,7 @@ id,sourceid,name,party,area,seat,start
 0737073162411,8340e89d-250a-4300-bab5-6937399ee277,Emma Carlsson Löfdahl,-,Jönköpings län,219,2018-09-24
 0376395541120,4a486ea1-d97c-4393-9ada-2639140cfd46,Joakim Sandell,S,Malmö kommun,220,2018-09-24
 0587736055221,1512b21b-9312-41bc-80ed-f4f0e58f1de4,Niels Paarup-Petersen,C,Malmö kommun,221,2018-09-24
-0360160202728,e09d9076-28c7-4583-a17f-7a776de7f01f,Emma Ahlström Köster,M,Skåne läns södra,222,2020-12-29
+0616721755222,88e092fa-1769-43c7-bfef-9d260811c982,Louise Meijer,M,Skåne läns södra,222,2021-05-24
 0810201628512,5ac51ad6-c8ea-4ce6-bcd5-b8609d6c058a,Ann-Charlotte Hammar Johnsson,M,Skåne läns västra,223,2018-09-24
 0199751900210,cbadd933-3375-4216-92fd-3d64a56b5a13,Annelie Karlsson,S,Skåne läns norra och östra,224,2018-09-24
 0452755722723,06d7c195-c170-4103-bcc6-1d9c0d43b169,Björn Söder,SD,Skåne läns norra och östra,225,2018-09-24
@@ -291,9 +291,9 @@ id,sourceid,name,party,area,seat,start
 02910042914,10b75fcf-dbac-4fba-9773-7e8889c237b2,Carina Ödebrink,S,Jönköpings län,290,2018-09-24
 0796071663617,669a8123-3f21-4920-80f8-e4ec200ae575,Acko Ankarberg Johansson,KD,Jönköpings län,291,2018-10-24
 065105536026,b20fb574-b44c-42af-ae93-064dfabbffaf,Niklas Karlsson,S,Skåne läns västra,292,2018-09-24
-0655028250417,8f8cf53f-9bd3-464a-a4bd-0976a1ec2d5a,Lena Emilsson,S,Skåne läns västra,293,2020-09-01
+0996640018922,69da57e0-b072-45d0-944a-aa5d3f9e3070,Yasmine Bladelius,S,Skåne läns västra,293,2021-05-01
 0892978334516,0e4e69c7-d657-47e6-be67-e8a3003084fd,Michael Anefur,KD,Skåne läns västra,294,2020-08-31
-0150200797210,783cb616-bbb0-49ff-9f2a-1200fd90f133,Mats Sander,M,Skåne läns västra,295,2020-11-02
+0764949934324,7c4e35b2-f653-4746-bb03-351abbd566eb,Ulrika Heindorff,M,Skåne läns västra,295,2021-05-03
 0468956880528,cf98df89-2103-40cc-8524-b2df33125a3f,Mikael Eskilandersson,SD,Skåne läns norra och östra,296,2018-09-24
 0572788110724,4f48a9f3-c14a-4436-8ad3-a1d4166bdf30,Maria Malmer Stenergard,M,Skåne läns norra och östra,297,2018-09-24
 0503029811325,5d9734c8-d757-4862-8f2e-c292824120a7,David Josefsson,M,Göteborgs kommun,298,2018-09-24
