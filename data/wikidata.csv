@@ -23,7 +23,7 @@ id,item,name,area,party,start
 0364687971222,Q70621742,Alireza Akhondi,Stockholms län,C,2018-09-24
 0446541913415,Q4731041,Allan Widman,Malmö kommun,L,2018-09-24
 0999976269027,Q71137237,Amanda Palmstierna,Stockholms län,MP,2019-10-01
-0545353563812,Q3675519,Amineh Kakabaveh,Stockholms län,-,2019-08-28
+0545353563812,Q3675519,Amineh Kakabaveh,Stockholms län,V,2019-08-28
 0843345349823,Q4753804,Anders Hansson,Skåne läns södra,M,2018-09-24
 0677738818613,Q6255521,Anders Åkesson,Kalmar län,C,2018-09-24
 0277648711624,Q30035700,Anders Österberg,Stockholms kommun,S,2018-09-24
@@ -101,7 +101,12 @@ id,item,name,area,party,start
 0313210809828,Q5928457,Emil Källström,Västernorrlands län,C,2021-04-01
 0360160202728,Q104214592,Emma Ahlström Köster,,M,2021-01-01
 0624040854527,Q57168687,Emma Berginger,Skåne läns södra,MP,2018-09-24
-0737073162411,Q4941925,Emma Carlsson Löfdahl,Jönköpings län,-,2019-03-11
+0737073162411,Q4941925,Emma Carlsson Löfdahl,Jönköpings län,சுயே,2019-03-11
+0737073162411,Q4941925,Emma Carlsson Löfdahl,Jönköpings län,partilös,2019-03-11
+0737073162411,Q4941925,Emma Carlsson Löfdahl,Jönköpings län,IND,2019-03-11
+0737073162411,Q4941925,Emma Carlsson Löfdahl,Jönköpings län,SÉ,2019-03-11
+0737073162411,Q4941925,Emma Carlsson Löfdahl,Jönköpings län,IND,2019-03-11
+0737073162411,Q4941925,Emma Carlsson Löfdahl,Jönköpings län,BEZPP,2019-03-11
 0628870165823,Q18242665,Emma Hult,Jönköpings län,MP,2018-09-24
 091303475611,Q60144183,Eric Palmqvist,Norrbottens län,SD,2018-09-24
 010643534813,Q71059733,Eric Westroth,Hallands län,SD,2018-09-24
@@ -174,8 +179,8 @@ id,item,name,area,party,start
 025877594729,Q50353136,John Widegren,Östergötlands län,M,2018-09-24
 0455086201022,Q6328008,Johnny Skalin,Västernorrlands län,SD,2018-09-24
 0272006117024,Q70611350,Jon Thorbjörnson,Hallands län,V,2018-09-24
-0538494048717,Q59387749,Jonas Andersson,Västerbottens län,SD,2018-09-24
 025931369428,Q58837098,Jonas Andersson,Östergötlands län,SD,2018-09-24
+0538494048717,Q59387749,Jonas Andersson,Västerbottens län,SD,2018-09-24
 0211757295524,Q5740653,Josef Fransson,Västra Götalands läns östra,SD,2018-09-24
 019430605328,Q42712344,Josefin Malmqvist,Stockholms län,M,2018-09-24
 0638497389621,Q4959972,Julia Kronlid,Stockholms län,SD,2018-09-24
