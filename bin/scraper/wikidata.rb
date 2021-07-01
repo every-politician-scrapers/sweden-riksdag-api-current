@@ -56,7 +56,9 @@ memberships_query = <<SPARQL
 
     OPTIONAL {
       ?ps pq:P4100 ?group .
-      OPTIONAL { ?group wdt:P1813 ?groupShort }
+      OPTIONAL {
+        ?group wdt:P1813 ?groupShort FILTER(LANG(?groupShort) = "sv")
+      }
     }
     BIND(COALESCE(?groupShort, '-') AS ?party)
 

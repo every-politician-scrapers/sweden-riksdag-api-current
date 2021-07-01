@@ -1,17 +1,12 @@
 @@,id,name,area,party,start
 ->,584506101017.0,Magnus Stuart,Södermanlands län,M,2020-02-01->2021-02-01
 ->,545353563812.0,Amineh Kakabaveh,Stockholms län,V->-,2019-08-28->2018-09-24
+->,64305816841,Emma Carlsson Löfdahl,Jönköpings län,partilös->-,2019-03-11->2018-09-24
 ->,495661214429.0,Lorentz Tovatt,Stockholms kommun,MP,2018-09-24->2021-02-01
 ->,341628241813.0,Marianne Pettersson->Marianne Fundahn,Skåne läns södra,S,2018-09-24
 ---,360160202728.0,Emma Ahlström Köster,,M,2021-01-01
 ---,150200797210.0,Mats Sander,Skåne läns västra,M,2020-11-02
 ---,655028250417.0,Lena Emilsson,Skåne läns västra,S,2020-09-01
----,64305816841,Emma Carlsson Löfdahl,Jönköpings län,IND,2019-03-11
----,64305816841,Emma Carlsson Löfdahl,Jönköpings län,SÉ,2019-03-11
----,64305816841,Emma Carlsson Löfdahl,Jönköpings län,IND,2019-03-11
----,64305816841,Emma Carlsson Löfdahl,Jönköpings län,partilös,2019-03-11
----,64305816841,Emma Carlsson Löfdahl,Jönköpings län,சுயே,2019-03-11
----,64305816841,Emma Carlsson Löfdahl,Jönköpings län,BEZPP,2019-03-11
 ---,873650166625.0,Sara Heikkinen Breitholtz,Hallands län,S,2019-01-21
 ---,523902030928.0,Aylin Fazelian,Västra Götalands läns västra,S,2018-09-24
 +++,987246082523.0,Paula Örn,Västra Götalands läns västra,S,2021-07-01
@@ -19,4 +14,3 @@
 +++,53540805266,Louise Meijer,Skåne läns södra,M,2021-05-24
 +++,764949934324.0,Ulrika Heindorff,Skåne läns västra,M,2021-05-03
 +++,996640018922.0,Yasmine Bladelius,Skåne läns västra,S,2021-05-01
-+++,64305816841,Emma Carlsson Löfdahl,Jönköpings län,-,2018-09-24
