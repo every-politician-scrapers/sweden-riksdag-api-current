@@ -72,7 +72,7 @@ memberships_query = <<SPARQL
     ?item rdfs:label ?svname FILTER(LANG(?svname) = "sv") .
     BIND(COALESCE(?riksdagName, ?svname) AS ?name)
   }
-  ORDER BY ?name
+  ORDER BY ?name ?id
 SPARQL
 
 url = WIKIDATA_SPARQL_URL % CGI.escape(memberships_query)
