@@ -135,7 +135,6 @@ id,sourceid,name,party,area,seat,start
 0296384583518,473cc883-b475-42fe-8553-4f1a6bd17a54,Åsa Eriksson,S,Västmanlands län,134,2018-09-24
 0228027853620,9d24d55a-be20-4caa-ac48-4da11b50969c,Vasiliki Tsouplaki,V,Västmanlands län,135,2018-09-24
 0313210809828,17c541d7-8031-43e6-8a8f-8608b9afeed0,Emil Källström,C,Västernorrlands län,136,2021-04-01
-043972220518,294cd1d7-df0b-4794-b433-b3892d3ad29d,Jasenko Omanovic,S,Västernorrlands län,137,2018-09-24
 0961483563503,66a97750-1ac5-4f8d-be57-ac4c1c733ee9,Gudrun Nordborg,V,Västerbottens län,138,2020-11-04
 0506482805418,cebc9890-55f1-41ff-acc7-af2de3e4320e,Isak From,S,Västerbottens län,139,2018-09-24
 0606863154419,7a3c3bff-401a-45da-9f1b-e92d4a5c2637,Mats Berglund,MP,Stockholms kommun,140,2019-01-23
@@ -279,6 +278,7 @@ id,sourceid,name,party,area,seat,start
 0494843794418,1e70f7df-dd11-410b-941a-bcac14e919a8,Martin Ådahl,C,Stockholms kommun,278,2018-09-24
 0768554866215,243a8476-df07-435b-b2e8-50d03926ae51,Katja Nyberg,SD,Stockholms kommun,279,2018-09-24
 0962410717322,50277320-fb16-40ba-82aa-8093fbb3126e,Sultan Kayhan,S,Stockholms kommun,280,2020-03-09
+043972220518,294cd1d7-df0b-4794-b433-b3892d3ad29d,Jasenko Omanovic,S,Västernorrlands län,280,2018-09-24
 0530425150220,83b5647b-ccf4-4398-aefb-6d93152f951b,Annika Strandhäll,S,Stockholms kommun,281,2019-10-01
 0852475703226,d3874590-31fb-4743-8d55-2565df5ed8af,Lorena Delgado Varas,V,Stockholms län,282,2018-09-24
 0334816698724,b13770c1-edeb-4431-9ef2-2ce037d2567f,Karolina Skog,MP,Stockholms län,283,2019-01-22
