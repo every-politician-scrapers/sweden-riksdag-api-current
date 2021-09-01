@@ -74,6 +74,7 @@ id,sourceid,name,party,area,seat,start
 0554852839719,4db15792-072c-456e-a46c-6d0cee07889e,Mikael Dahlqvist,S,Värmlands län,73,2018-09-24
 066036027425,cd568a26-75c0-401e-a4de-d43589a8dc21,Mikael Damsgaard,M,Västmanlands län,74,2019-07-02
 0308306375022,521898f1-51de-46ff-8701-d28b8a0e651d,Roger Haddad,L,Västmanlands län,75,2018-09-24
+043972220518,294cd1d7-df0b-4794-b433-b3892d3ad29d,Jasenko Omanovic,S,Västernorrlands län,76,2021-09-01
 0779781772919,a761212d-42d3-4b7d-a535-58fb33d2098d,Kristina Nilsson,S,Västernorrlands län,77,2018-09-24
 0407081382317,c2917e84-a1f8-4de8-9c71-a492eee1f43f,Anna-Caren Sätherberg,S,Jämtlands län,78,2018-09-24
 0472349361027,f8d1d1b6-f008-446e-a7f8-dd324fbb71d4,Kalle Olsson,S,Jämtlands län,79,2019-01-14
@@ -134,6 +135,7 @@ id,sourceid,name,party,area,seat,start
 0296384583518,473cc883-b475-42fe-8553-4f1a6bd17a54,Åsa Eriksson,S,Västmanlands län,134,2018-09-24
 0228027853620,9d24d55a-be20-4caa-ac48-4da11b50969c,Vasiliki Tsouplaki,V,Västmanlands län,135,2018-09-24
 0313210809828,17c541d7-8031-43e6-8a8f-8608b9afeed0,Emil Källström,C,Västernorrlands län,136,2021-04-01
+07921826010,0a614b1d-8d24-4794-838d-8fbed7b503c5,Anna-Belle Strömberg,S,Västernorrlands län,137,2021-09-01
 0961483563503,66a97750-1ac5-4f8d-be57-ac4c1c733ee9,Gudrun Nordborg,V,Västerbottens län,138,2020-11-04
 0506482805418,cebc9890-55f1-41ff-acc7-af2de3e4320e,Isak From,S,Västerbottens län,139,2018-09-24
 0606863154419,7a3c3bff-401a-45da-9f1b-e92d4a5c2637,Mats Berglund,MP,Stockholms kommun,140,2019-01-23
@@ -294,6 +296,7 @@ id,sourceid,name,party,area,seat,start
 0764949934324,7c4e35b2-f653-4746-bb03-351abbd566eb,Ulrika Heindorff,M,Skåne läns västra,295,2021-05-03
 0468956880528,cf98df89-2103-40cc-8524-b2df33125a3f,Mikael Eskilandersson,SD,Skåne läns norra och östra,296,2018-09-24
 0572788110724,4f48a9f3-c14a-4436-8ad3-a1d4166bdf30,Maria Malmer Stenergard,M,Skåne läns norra och östra,297,2018-09-24
+0534870997412,f965c024-1cd1-4a10-bff1-7615c8b1bde4,Åsa Hartzell,M,Göteborgs kommun,298,2021-09-01
 0435740736429,88438cea-b340-48cf-8fa8-230f1a8d2ea2,Hampus Hagman,KD,Göteborgs kommun,299,2018-09-24
 0965245623824,dcb6381a-3e44-4efa-9a47-1303b691a7e7,Nicklas Attefjord,MP,Västra Götalands läns västra,300,2021-02-09
 0861521539920,fc43f0dc-4fc1-4e6e-ba11-5b74b20a12b2,Aron Emilsson,SD,Västra Götalands läns västra,301,2018-09-24
