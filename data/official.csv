@@ -204,7 +204,6 @@ id,sourceid,name,party,area,seat,start
 0482689573825,7ef75999-90a2-41af-a083-6dfd70e8e3e8,Björn Wiechel,S,Västerbottens län,203,2020-08-10
 0538494048717,c5e9daf0-868f-4c8e-9a69-671c7b22855a,Jonas Andersson,SD,Västerbottens län,204,2018-09-24
 0648224557612,317c6cc9-dcd5-4dcc-b275-9e17d973da4c,Åsa Karlsson,S,Västerbottens län,205,2018-09-24
-0495218011521,a3bcba0f-0032-4aba-a889-f3fc19d82549,Johanna Jönsson,C,Stockholms kommun,206,2018-09-24
 0721509806321,78d79a96-956f-4ac3-bbf7-2b15b3d86ce7,Nooshi Dadgostar,V,Stockholms kommun,207,2020-03-01
 037561614928,285a3d5f-cb32-4958-9b7c-1545b2faff18,Lawen Redar,S,Stockholms kommun,208,2018-09-24
 0277648711624,df3988c4-9541-465c-b02e-1410c3d31155,Anders Österberg,S,Stockholms kommun,209,2018-09-24
@@ -341,7 +340,6 @@ id,sourceid,name,party,area,seat,start
 0512510717328,b0cce726-5e23-4d21-a609-95071f8820f0,Ebba Busch,KD,Västra Götalands läns östra,340,2018-09-24
 086684470825,5763c159-5105-47b3-82fb-9cc7dc20dc7d,Tobias Andersson,SD,Västra Götalands läns östra,341,2018-09-24
 0466653728712,47705a06-b78d-469f-9ebe-8f7407607be6,Denis Begic,S,Örebro län,342,2018-09-24
-0267085997926,3303f6e9-7957-4a86-9457-090ef22a54ef,Lena Rådström Baastad,S,Örebro län,343,2018-09-24
 0201207390210,4a2cb0d8-5569-4f1b-bd0f-62c7e812a2fb,Lars Adaktusson,KD,Dalarnas län,344,2018-09-24
 0365748677411,3c0112b7-fdd4-4f06-833b-a27c93d6efdf,Mats Nordberg,SD,Dalarnas län,345,2018-09-24
 0880018341619,ee4900a4-1434-4ae5-8ddf-4f18755e02cc,Thomas Morell,SD,Gävleborgs län,346,2018-09-24
