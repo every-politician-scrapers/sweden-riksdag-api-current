@@ -162,7 +162,7 @@ id,sourceid,name,party,area,seat,start
 0170585430421,c63331e9-02ca-4f71-a7de-9a17e2ec4ac4,Jimmy Ståhl,SD,Västra Götalands läns norra,161,2018-09-24
 0322827326923,92355c36-d95d-42ed-9ad9-463bf9558767,Arman Teimouri,L,Värmlands län,162,2018-09-24
 0224712677012,d7c327f8-83e4-11d4-ae60-0050040c9b55,Johan Pehrson,L,Örebro län,163,2018-09-24
-0594680769027,a9ffa63a-bd3e-4f78-ab3d-5228673ff370,Daniel Andersson,S,Örebro län,164,2019-01-21
+048970816012,dd4afc3e-7460-4e22-8eba-9ad0fc2915ac,Eva-Lena Jansson,S,Örebro län,164,2021-09-03
 0148424181819,3298ed49-917f-4230-8cf5-e10a70a93727,Ann-Christine From Utterstedt,SD,Västmanlands län,165,2018-09-24
 0628005785225,fe6f437b-729a-4943-8e41-f43d39a5605f,Jörgen Berglund,M,Västernorrlands län,166,2018-09-24
 0203877548421,39523176-322e-469e-a754-3c46db2b0756,Malin Larsson,S,Västernorrlands län,167,2018-09-24
@@ -204,6 +204,7 @@ id,sourceid,name,party,area,seat,start
 0482689573825,7ef75999-90a2-41af-a083-6dfd70e8e3e8,Björn Wiechel,S,Västerbottens län,203,2020-08-10
 0538494048717,c5e9daf0-868f-4c8e-9a69-671c7b22855a,Jonas Andersson,SD,Västerbottens län,204,2018-09-24
 0648224557612,317c6cc9-dcd5-4dcc-b275-9e17d973da4c,Åsa Karlsson,S,Västerbottens län,205,2018-09-24
+0770363683317,02b66d05-3a6a-4bdc-9f6b-b938c7cf24b0,Malin Björk,C,Stockholms kommun,206,2021-09-02
 0721509806321,78d79a96-956f-4ac3-bbf7-2b15b3d86ce7,Nooshi Dadgostar,V,Stockholms kommun,207,2020-03-01
 037561614928,285a3d5f-cb32-4958-9b7c-1545b2faff18,Lawen Redar,S,Stockholms kommun,208,2018-09-24
 0277648711624,df3988c4-9541-465c-b02e-1410c3d31155,Anders Österberg,S,Stockholms kommun,209,2018-09-24
@@ -340,6 +341,7 @@ id,sourceid,name,party,area,seat,start
 0512510717328,b0cce726-5e23-4d21-a609-95071f8820f0,Ebba Busch,KD,Västra Götalands läns östra,340,2018-09-24
 086684470825,5763c159-5105-47b3-82fb-9cc7dc20dc7d,Tobias Andersson,SD,Västra Götalands läns östra,341,2018-09-24
 0466653728712,47705a06-b78d-469f-9ebe-8f7407607be6,Denis Begic,S,Örebro län,342,2018-09-24
+0594680769027,a9ffa63a-bd3e-4f78-ab3d-5228673ff370,Daniel Andersson,S,Örebro län,343,2021-09-03
 0201207390210,4a2cb0d8-5569-4f1b-bd0f-62c7e812a2fb,Lars Adaktusson,KD,Dalarnas län,344,2018-09-24
 0365748677411,3c0112b7-fdd4-4f06-833b-a27c93d6efdf,Mats Nordberg,SD,Dalarnas län,345,2018-09-24
 0880018341619,ee4900a4-1434-4ae5-8ddf-4f18755e02cc,Thomas Morell,SD,Gävleborgs län,346,2018-09-24
