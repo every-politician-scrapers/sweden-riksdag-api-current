@@ -7,7 +7,7 @@ id,item,name,area,party,start
 0512510717328,Q4941329,Ebba Busch,Västra Götalands läns östra,KD,2018-09-24
 0229350341619,Q4981700,Ilona Szatmari Waldau,Uppsala län,V,2018-09-24
 0529103571012,Q5554868,Jan R Andersson,Kalmar län,M,2020-06-22
-043972220518,Q6028336,Jasenko Omanovic,Västernorrlands län,S,2018-09-24
+043972220518,Q6028336,Jasenko Omanovic,Västernorrlands län,S,2021-09-01
 0475643059428,Q19976447,Jonny Cato,Skåne läns västra,C,2018-09-24
 0257612529618,Q3373169,Kenneth G Forslund,Västra Götalands läns västra,S,2018-09-24
 0309480686522,Q56640168,Leila Ali-Elmi,Göteborgs kommun,MP,2018-09-24
@@ -40,6 +40,7 @@ id,item,name,area,party,start
 051870309210,Q57168710,Anna Sibinska,Göteborgs kommun,MP,2018-09-24
 0502688311316,Q27107494,Anna Vikström,Stockholms län,S,2020-08-01
 0111479807829,Q18202414,Anna Wallentheim,Skåne läns norra och östra,S,2018-09-24
+07921826010,Q108525972,Anna-Belle Strömberg,Västernorrlands län,S,2021-09-01
 0407081382317,Q18202413,Anna-Caren Sätherberg,Jämtlands län,S,2018-09-24
 042413114103,Q71063276,Anne Oskarsson,Kalmar län,SD,2018-09-24
 0947572086414,Q99541757,Anne-Li Sjölund,Västernorrlands län,C,2021-09-14
@@ -51,7 +52,7 @@ id,item,name,area,party,start
 0522240580423,Q70529257,Arin Karapet,Stockholms kommun,M,2018-09-24
 0322827326923,Q56743173,Arman Teimouri,Värmlands län,L,2018-09-24
 0861521539920,Q18238607,Aron Emilsson,Västra Götalands läns västra,SD,2018-09-24
-0523902030928,Q61122062,Aylin Fazelian,Västra Götalands läns västra,S,2018-09-24
+0556755096938,Q42393729,Axel Hallberg,Skåne läns södra,MP,2021-09-20
 0474290584024,Q18245444,Azadeh Rojhan Gustafsson,Stockholms län,S,2020-08-01
 0363228965800,Q4859755,Barbro Westerholm,Stockholms län,L,2018-09-24
 0116759114313,Q18747077,Bengt Eliasson,Hallands län,L,2018-09-24
@@ -77,7 +78,7 @@ id,item,name,area,party,start
 0731442709013,Q5109199,Christer Nylander,Skåne läns norra och östra,L,2018-09-24
 0389220391128,Q27750419,Christian Carlsson,Stockholms kommun,KD,2021-02-11
 0521844714515,Q4955459,Christina Höj Larsen,Västernorrlands län,V,2018-09-24
-0325462829512,Q18246550,Christina Östberg,Skåne läns norra och östra,SD,2018-09-24
+0325462829512,Q18246550,Christina Tapper Östberg,Skåne läns norra och östra,SD,2018-09-24
 0776705932527,Q57168740,Ciczie Weidby,Jönköpings län,V,2018-09-24
 0130640724922,Q70886056,Clara Aranda,Skåne läns södra,SD,2018-09-24
 0685749336810,Q5937190,Dag Larsson,Stockholms kommun,S,2018-09-24
@@ -99,7 +100,6 @@ id,item,name,area,party,start
 0899112324519,Q4981393,Elisabeth Svantesson,Örebro län,M,2018-09-24
 0144048894712,Q4957570,Ellen Juntti,Västra Götalands läns västra,M,2019-04-12
 0604459858621,Q18202407,Emilia Töyrä,Norrbottens län,S,2021-08-28
-0360160202728,Q104214592,Emma Ahlström Köster,,M,2021-01-01
 0737073162411,Q4941925,Emma Carlsson Löfdahl,Jönköpings län,partilös,2019-03-11
 0628870165823,Q18242665,Emma Hult,Jönköpings län,MP,2018-09-24
 091303475611,Q60144183,Eric Palmqvist,Norrbottens län,SD,2018-09-24
@@ -107,6 +107,7 @@ id,item,name,area,party,start
 0667220767927,Q21558211,Erik Ezelius,Västra Götalands läns östra,S,2018-09-24
 0832311880029,Q19977128,Erik Ottoson,Stockholms län,M,2021-02-01
 0780214960516,Q30035702,Eva Lindh,Östergötlands län,S,2018-09-24
+048970816012,Q3374622,Eva-Lena Jansson,Örebro län,S,2021-09-03
 0519542449425,Q18238133,Fredrik Christensson,Västra Götalands läns norra,C,2018-09-24
 0557180142229,Q71132556,Fredrik Lindahl,Stockholms län,SD,2018-09-24
 0911916463828,Q5966830,Fredrik Lundh Sammeli,Norrbottens län,S,2018-09-24
@@ -127,10 +128,10 @@ id,item,name,area,party,start
 0540190357911,Q3374562,Hans Hoff,Hallands län,S,2018-09-24
 0409540163215,Q378195,Hans Rothenberg,Göteborgs kommun,M,2018-09-24
 0980681611418,Q5650816,Hans Wallmark,Skåne läns norra och östra,M,2018-09-24
-0575283695521,Q65130310,Helena Antoni,Hallands län,M,2019-07-02
 0729710260118,Q4940303,Helena Bouveng,Jönköpings län,M,2018-09-24
 0899169869710,Q57168729,Helena Gellerman,Västra Götalands läns västra,L,2018-09-24
 084624777218,Q4962331,Helena Lindahl,Västerbottens län,C,2018-09-24
+0575283695521,Q65130310,Helena Storckenfeldt,Hallands län,M,2019-07-02
 0903081277919,Q57168726,Helena Vilhelmsson,Örebro län,C,2018-09-24
 0103624617217,Q3374237,Helén Pettersson,Västerbottens län,S,2018-09-24
 0926214745119,Q57168842,Heléne Björklund,Blekinge län,S,2018-09-24
@@ -140,12 +141,11 @@ id,item,name,area,party,start
 0604811710522,Q18202365,Ida Drougge,Stockholms län,M,2019-09-10
 025158809026,Q4949356,Ida Gabrielsson,Stockholms län,V,2018-09-24
 0509830681123,Q18451082,Ida Karkiainen,Norrbottens län,S,2018-09-24
-0365696629917,Q99836915,Inge Ståhlgren,Södermanlands län,S,2020-10-02
 0313390540217,Q4970595,Ingela Nylund Watz,Stockholms län,S,2018-09-24
 0828001951212,Q71340705,Ingemar Kihlström,Västra Götalands läns södra,KD,2018-09-24
-0208558695314,Q6010550,Ingemar Nilsson,Västernorrlands län,S,2018-09-24
 0506482805418,Q5745541,Isak From,Västerbottens län,S,2018-09-24
 0982795248728,Q5737841,Jakob Forssmed,Stockholms län,KD,2020-02-21
+0409655917321,Q108059200,Jakob Olofsgård,Jönköpings län,L,2021-08-01
 0121939297619,Q30035682,Jamal El-Haj,Malmö kommun,S,2018-09-24
 0940980416614,Q1681740,Jan Ericson,Västra Götalands läns södra,M,2018-09-24
 0339894357417,Q4563096,Jennie Nilsson,Hallands län,S,2021-06-30
@@ -205,16 +205,16 @@ id,item,name,area,party,start
 0853831481615,Q70731884,Lars Thomsson,Gotlands län,C,2018-09-24
 037561614928,Q18451520,Lawen Redar,Stockholms kommun,S,2018-09-24
 0376353897112,Q20652878,Leif Nysmed,Stockholms län,S,2018-09-24
-0655028250417,Q18202405,Lena Emilsson,Skåne läns västra,S,2020-09-01
 0161616238120,Q16595953,Lina Nordquist,Uppsala län,L,2018-09-24
 0430865615328,Q71137014,Linda Lindberg,Skåne läns västra,SD,2018-09-24
 0238095659621,Q57168715,Linda Modig,Norrbottens län,C,2018-09-24
 0150118366721,Q18245930,Linda Westerlund Snecker,Östergötlands län,V,2018-09-24
 0706528359123,Q30035676,Linus Sköld,Norrbottens län,S,2019-01-30
 0852475703226,Q57168752,Lorena Delgado Varas,Stockholms län,V,2018-09-24
-0495661214429,Q16633513,Lorentz Tovatt,Stockholms kommun,MP,2018-09-24
+0495661214429,Q16633513,Lorentz Tovatt,Stockholms kommun,MP,2021-02-01
 0122987223112,Q18243097,Lotta Johnsson Fornarve,Södermanlands län,V,2018-09-24
 066769783310,Q4971184,Lotta Olsson,Örebro län,M,2018-09-24
+0616721755222,Q57168719,Louise Meijer,Skåne läns södra,M,2021-05-24
 0526748040023,Q71131688,Ludvig Aspling,Stockholms län,SD,2019-06-28
 041911485722,Q58769193,Magdalena Schröder,Stockholms län,M,2018-11-12
 057993099726,Q20652801,Magnus Ek,Östergötlands län,C,2018-09-24
@@ -222,17 +222,19 @@ id,item,name,area,party,start
 025967059622,Q5974768,Magnus Manhammar,Blekinge län,S,2018-09-24
 0792733370419,Q18244900,Magnus Oscarsson,Östergötlands län,KD,2018-09-24
 0641953830512,Q18245020,Magnus Persson,Dalarnas län,SD,2018-09-24
-0584506101017,Q105371172,Magnus Stuart,Södermanlands län,M,2020-02-01
+0584506101017,Q105371172,Magnus Stuart,Södermanlands län,M,2021-02-01
 0198917587520,Q18243244,Maj Karlsson,Göteborgs kommun,V,2018-09-24
+0770363683317,Q108420017,Malin Björk,Stockholms kommun,C,2021-09-02
 0603366539729,Q64404514,Malin Danielsson,Stockholms län,L,2020-02-01
 0203877548421,Q60823079,Malin Larsson,Västernorrlands län,S,2018-09-24
 0970259744617,Q4942378,Margareta Cederfelt,Stockholms kommun,M,2018-09-24
+0694273653613,Q108598507,Margareta Fransson,Östergötlands län,MP,2021-09-19
 064711971110,Q4949502,Maria Gardfjell,Uppsala län,MP,2018-09-24
 0572788110724,Q18202362,Maria Malmer Stenergard,Skåne läns norra och östra,M,2018-09-24
 0228167770927,Q59418273,Maria Nilsson,Göteborgs kommun,L,2018-09-24
 0932000030511,Q4980571,Maria Stockhaus,Stockholms län,M,2018-09-24
 0136801772915,Q18202390,Maria Strömkvist,Dalarnas län,S,2018-09-24
-0341628241813,Q18452054,Marianne Pettersson,Skåne läns södra,S,2018-09-24
+0341628241813,Q18452054,Marianne Fundahn,Skåne läns södra,S,2018-09-24
 0810852280213,Q70586981,Marie-Louise Hänel Sandström,Göteborgs kommun,M,2018-09-24
 0497217816024,Q72922068,Markus Selin,Stockholms län,S,2020-08-01
 0204240926023,Q6240455,Markus Wiechel,Östergötlands län,SD,2018-09-24
@@ -247,7 +249,6 @@ id,item,name,area,party,start
 0538387395826,Q18239250,Mats Green,Jönköpings län,M,2018-09-24
 0365748677411,Q71054855,Mats Nordberg,Dalarnas län,SD,2018-09-24
 023767922422,Q6043377,Mats Persson,Skåne läns södra,L,2018-09-24
-0150200797210,Q6092482,Mats Sander,Skåne läns västra,M,2020-11-02
 0720250789315,Q57168927,Mats Wiking,Västra Götalands läns norra,S,2018-09-24
 0130789484021,Q5887149,Mattias Bäckström Johansson,Kalmar län,SD,2018-09-24
 0499755198526,Q5891875,Mattias Jonsson,Göteborgs kommun,S,2018-09-24
@@ -282,6 +283,7 @@ id,item,name,area,party,start
 0183544538819,Q18243181,Patrik Jönsson,Västra Götalands läns södra,SD,2018-09-24
 0418929039326,Q21561347,Patrik Lundqvist,Gävleborgs län,S,2018-09-24
 0974061238314,Q18202338,Paula Holmqvist,Västra Götalands läns norra,S,2018-09-24
+0987246082523,Q39871399,Paula Örn,Västra Götalands läns västra,S,2021-07-01
 0363721826713,Q5962258,Per Lodenius,Stockholms län,C,2018-09-24
 0925652297119,Q6062372,Per Ramhorn,Malmö kommun,SD,2018-09-24
 0170630324419,Q71064125,Per Schöldberg,Kronobergs län,C,2019-03-12
@@ -311,6 +313,7 @@ id,item,name,area,party,start
 0506541436524,Q18448703,Sanne Lennström,Uppsala län,S,2020-05-18
 0338088431726,Q56925588,Sara Gille,Malmö kommun,SD,2018-09-24
 0256716955026,Q26710616,Serkan Köse,Stockholms län,S,2018-09-24
+0521260619925,Q108525852,Sofia Amloh,Södermanlands län,S,2021-09-08
 0306286538528,Q18238286,Sofia Damm,Skåne läns södra,KD,2018-09-24
 0454698803028,Q60823070,Sofia Nilsson,Skåne läns norra och östra,C,2018-09-24
 022805994927,Q70592245,Sofia Westergren,Västra Götalands läns västra,M,2018-09-24
@@ -332,10 +335,12 @@ id,item,name,area,party,start
 0222691314314,Q1780398,Ulf Kristersson,Stockholms kommun,M,2018-09-24
 0628190530410,Q4935938,Ulla Andersson,Gävleborgs län,V,2018-09-24
 0836001490919,Q4987958,Ulrika Heie,Västra Götalands läns östra,C,2018-09-24
+0764949934324,Q30000205,Ulrika Heindorff,Skåne läns västra,M,2021-05-03
 0598792324417,Q71057524,Ulrika Jörgensen,Hallands län,M,2018-09-24
 0397924710612,Q4958187,Ulrika Karlsson,Uppsala län,M,2021-04-26
 0228027853620,Q4983517,Vasiliki Tsouplaki,Västmanlands län,V,2018-09-24
 0796312429425,Q60732958,Viktor Wärnick,Gävleborgs län,M,2018-09-24
+0996640018922,Q18202336,Yasmine Bladelius,Skåne läns västra,S,2021-05-01
 0331791853028,Q70906950,Yasmine Eriksson,Stockholms kommun,SD,2018-09-24
 0468765214727,Q50353141,Yasmine Posio,Göteborgs kommun,V,2018-09-24
 0564126739422,Q4943175,Åsa Coenraads,Västmanlands län,M,2018-09-24
