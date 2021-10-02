@@ -49,6 +49,7 @@ id,item,name,area,party,start
 0862868280923,Q439393,Annie Lööf,Jönköpings län,C,2020-09-01
 0962841101917,Q4769498,Annika Qarlsson,Västra Götalands läns västra,C,2018-09-24
 0530425150220,Q4980750,Annika Strandhäll,Stockholms kommun,S,2019-10-01
+0576619284416,Q108765984,Aphram Melki,Stockholms län,C,2021-10-01
 0522240580423,Q70529257,Arin Karapet,Stockholms kommun,M,2018-09-24
 0322827326923,Q56743173,Arman Teimouri,Värmlands län,L,2018-09-24
 0861521539920,Q18238607,Aron Emilsson,Västra Götalands läns västra,SD,2018-09-24
@@ -284,7 +285,6 @@ id,item,name,area,party,start
 0418929039326,Q21561347,Patrik Lundqvist,Gävleborgs län,S,2018-09-24
 0974061238314,Q18202338,Paula Holmqvist,Västra Götalands läns norra,S,2018-09-24
 0987246082523,Q39871399,Paula Örn,Västra Götalands läns västra,S,2021-07-01
-0363721826713,Q5962258,Per Lodenius,Stockholms län,C,2018-09-24
 0925652297119,Q6062372,Per Ramhorn,Malmö kommun,SD,2018-09-24
 0170630324419,Q71064125,Per Schöldberg,Kronobergs län,C,2019-03-12
 0492644357418,Q71546781,Per Söderlund,Örebro län,SD,2019-02-01
