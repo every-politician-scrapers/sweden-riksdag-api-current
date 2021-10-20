@@ -56,6 +56,7 @@ id,sourceid,name,party,area,seat,start
 0313390540217,9cd4ce1a-c1f5-4743-aed6-8e60569e9947,Ingela Nylund Watz,S,Stockholms län,55,2018-09-24
 0752691002718,f0303245-c279-46dc-bffb-549d300db73a,Pyry Niemi,S,Uppsala län,56,2018-09-24
 0718034011110,5e09bf12-6f96-4a96-ac0c-27203aef4d2f,Jessika Roswall,M,Uppsala län,57,2018-09-24
+012547905113,3c4bc558-e433-4a72-a08b-c8d6a40c5ef8,Christina Nilsson,SD,Östergötlands län,58,2021-10-20
 0792733370419,0d218eb6-6294-4587-8abf-be0a351d7213,Magnus Oscarsson,KD,Östergötlands län,59,2018-09-24
 042413114103,314fe869-7e6c-441f-8d1f-5ab2c6052f1d,Anne Oskarsson,SD,Kalmar län,60,2018-09-24
 0457722435319,173d7387-fa63-4689-ac8c-e12f278487bd,Tomas Kronståhl,S,Kalmar län,61,2020-12-02
@@ -89,7 +90,7 @@ id,sourceid,name,party,area,seat,start
 0150118366721,1c03e794-a9a3-43d5-810a-7951e4c70901,Linda Westerlund Snecker,V,Östergötlands län,89,2018-09-24
 0170630324419,679f593a-0cce-4fbc-a5e4-0d803b93ac20,Per Schöldberg,C,Kronobergs län,90,2019-03-12
 0304498908019,aecfc5a6-954f-41b7-8593-998f1c446e1b,Gudrun Brunegård,KD,Kalmar län,91,2019-04-01
-0878075468027,d7c329b4-83e4-11d4-ae60-0050040c9b55,Hillevi Larsson,S,Malmö kommun,92,2018-09-24
+0136310791918,d7c3202c-83e4-11d4-ae60-0050040c9b55,Marie Granlund,S,Malmö kommun,92,2021-10-20
 0926214745119,a4581b8d-78fd-41c1-a55d-7fe9ed93c878,Heléne Björklund,S,Blekinge län,93,2018-09-24
 0306286538528,a6a33386-bc67-4702-aa8c-331ffe7e2f9c,Sofia Damm,KD,Skåne läns södra,94,2018-09-24
 023767922422,66fca0ac-0ebb-4bd0-b1e1-f34e223d2f1b,Mats Persson,L,Skåne läns södra,95,2018-09-24
