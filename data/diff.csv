@@ -1,11 +1,16 @@
 @@,id,name,area,party,start
+->,1442330391,Hannah Bergstedt,Norrbottens län,S,2021-11-30->2021-11-30 14:45:00
+->,27734282452,Janine Alm Ericson,Västra Götalands läns västra,MP,2021-11-30->2021-11-30 13:00:00
+->,395762282903.0,Elsemarie Bjellqvist,Stockholms kommun,S,2021-11-30->2021-11-30 13:00:00
+->,462699892622.0,Maria Ferm,Stockholms kommun,MP,2021-11-30->2021-11-30 13:00:00
+->,956444284814.0,Per Bolund,Stockholms kommun,MP,2021-11-30->2021-11-30 13:00:00
+->,973474532717.0,Ibrahim Baylan,NULL->Stockholms län,S,2021-11-30->2021-11-30 13:00:00
 ->,136310791918.0,Marie Granlund,Malmö kommun,S,2021-10-20->2021-10-20 11:39:00
 ->,503363679811.0,Stefan Plath,Malmö kommun,SD,2021-09-27->2021-09-27 09:00:00
 ->,521260619925.0,Sofia Amloh,Södermanlands län,S,2021-09-08->2021-09-08 15:36:00
 ->,7921826010.0,Anna-Belle Strömberg,Västernorrlands län,S,2021-09-01->2021-11-16
 ->,339894357417.0,Jennie Nilsson,Hallands län,S,2021-06-30->2021-06-30 13:11:00
 ->,397924710612.0,Ulrika Karlsson,Uppsala län,M,2021-04-26->2021-04-26 15:30:00
-->,965245623824.0->27734282452,Nicklas Attefjord->Janine Alm Ericson,Västra Götalands läns västra,MP,2021-02-09->2021-11-30 13:00:00
 ->,637784834317.0,Diana Laitinen Carlsson,Jönköpings län,S,2020-09-01->2020-09-01 07:00:00
 ->,488332307829.0,Abraham Halef,Stockholms län,S,2020-08-01->2021-11-30 13:00:00
 ->,497217816024.0,Markus Selin,Stockholms län,S,2020-08-01->2020-08-01 23:59:00
@@ -16,16 +21,8 @@
 ->,170630324419.0,Per Schöldberg,Kronobergs län,C,2019-03-12->2019-03-12 13:01:00
 ->,706528359123.0,Linus Sköld,Norrbottens län,S,2019-01-30->2019-01-30 09:00:00
 ->,742883909221.0,John Weinerhall->John E. Weinerhall,Östergötlands län,M,2018-09-24
----,534870997412.0,Åsa Hartzell,Göteborgs kommun,M,2021-09-01
+---,965245623824.0,Nicklas Attefjord,Västra Götalands läns västra,MP,2021-02-09
 ---,46243565712,Annika Strandhäll,Stockholms kommun,S,2019-10-01
 ---,606863154419.0,Mats Berglund,Stockholms kommun,MP,2019-01-23
----,60793468877,Pernilla Stålhammar,Stockholms kommun,MP,2019-01-22
----,509830681123.0,Ida Karkiainen,Norrbottens län,S,2018-09-24
 ---,407081382317.0,Anna-Caren Sätherberg,Jämtlands län,S,2018-09-24
-+++,503029811325.0,David Josefsson,Göteborgs kommun,M,2021-12-01
-+++,1442330391,Hannah Bergstedt,Norrbottens län,S,2021-11-30 14:45:00
 +++,395154929710.0,Anders Frimert,Jämtlands län,S,2021-11-30 14:45:00
-+++,395762282903.0,Elsemarie Bjellqvist,Stockholms kommun,S,2021-11-30 13:00:00
-+++,462699892622.0,Maria Ferm,Stockholms kommun,MP,2021-11-30 13:00:00
-+++,956444284814.0,Per Bolund,Stockholms kommun,MP,2021-11-30 13:00:00
-+++,973474532717.0,Ibrahim Baylan,Stockholms län,S,2021-11-30 13:00:00
