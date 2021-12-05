@@ -44,7 +44,7 @@ class MemberItem < Scraped::JSON
   end
 
   field :start do
-    memberdata[:from]
+    memberdata[:from].split(' ').first
   end
 
   private
