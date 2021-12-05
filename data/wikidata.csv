@@ -24,6 +24,7 @@ id,item,name,area,party,start
 0446541913415,Q4731041,Allan Widman,Malmö kommun,L,2018-09-24
 0999976269027,Q71137237,Amanda Palmstierna,Stockholms län,MP,2019-10-01
 0545353563812,Q3675519,Amineh Kakabaveh,Stockholms län,-,2019-08-28
+0395154929710,Q109928721,Anders Frimert,Jämtlands län,S,2021-11-30
 0843345349823,Q4753804,Anders Hansson,Skåne läns södra,M,2018-09-24
 0677738818613,Q6255521,Anders Åkesson,Kalmar län,C,2018-09-24
 0277648711624,Q30035700,Anders Österberg,Stockholms kommun,S,2018-09-24
@@ -41,14 +42,12 @@ id,item,name,area,party,start
 0502688311316,Q27107494,Anna Vikström,Stockholms län,S,2020-08-01
 0111479807829,Q18202414,Anna Wallentheim,Skåne läns norra och östra,S,2018-09-24
 07921826010,Q108525972,Anna-Belle Strömberg,Västernorrlands län,S,2021-09-01
-0407081382317,Q18202413,Anna-Caren Sätherberg,Jämtlands län,S,2018-09-24
 042413114103,Q71063276,Anne Oskarsson,Kalmar län,SD,2018-09-24
 0947572086414,Q99541757,Anne-Li Sjölund,Västernorrlands län,C,2021-09-14
 0199751900210,Q4958102,Annelie Karlsson,Skåne läns norra och östra,S,2018-09-24
 0590042760718,Q4769201,Annicka Engblom,Blekinge län,M,2018-09-24
 0862868280923,Q439393,Annie Lööf,Jönköpings län,C,2020-09-01
 0962841101917,Q4769498,Annika Qarlsson,Västra Götalands läns västra,C,2018-09-24
-0530425150220,Q4980750,Annika Strandhäll,Stockholms kommun,S,2019-10-01
 0576619284416,Q108765984,Aphram Melki,Stockholms län,C,2021-10-01
 0522240580423,Q70529257,Arin Karapet,Stockholms kommun,M,2018-09-24
 0322827326923,Q56743173,Arman Teimouri,Värmlands län,L,2018-09-24
@@ -249,7 +248,6 @@ id,item,name,area,party,start
 033935884729,Q71132178,Martina Johansson,Södermanlands län,C,2018-09-24
 0202577142527,Q70899253,Matheus Enholm,Västra Götalands läns norra,SD,2018-09-24
 0613297818326,Q24701062,Mathias Tegnér,Stockholms län,S,2021-06-01
-0606863154419,Q70994131,Mats Berglund,Stockholms kommun,MP,2019-01-23
 0538387395826,Q18239250,Mats Green,Jönköpings län,M,2018-09-24
 0365748677411,Q71054855,Mats Nordberg,Dalarnas län,SD,2018-09-24
 023767922422,Q6043377,Mats Persson,Skåne läns södra,L,2018-09-24
@@ -270,7 +268,6 @@ id,item,name,area,party,start
 0973782197017,Q6030080,Mikael Oscarsson,Uppsala län,KD,2018-09-24
 0194021108712,Q71143822,Mikael Strandman,Stockholms län,SD,2018-09-24
 0760500234712,Q18202340,Monica Haider,Kronobergs län,S,2018-09-24
-0965245623824,Q105414501,Nicklas Attefjord,Västra Götalands läns västra,MP,2021-02-09
 0587736055221,Q63344500,Niels Paarup-Petersen,Malmö kommun,C,2018-09-24
 065105536026,Q16633140,Niklas Karlsson,Skåne läns västra,S,2018-09-24
 0493288854424,Q6247957,Niklas Wykman,Stockholms län,M,2018-09-24
