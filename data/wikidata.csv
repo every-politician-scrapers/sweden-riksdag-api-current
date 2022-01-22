@@ -184,7 +184,6 @@ id,item,name,area,party,start
 0472349361027,Q6027267,Kalle Olsson,Jämtlands län,S,2019-01-14
 0607691439013,Q3544279,Karin Enström,Stockholms län,M,2018-09-24
 0246927519019,Q18245556,Karin Rågsjö,Stockholms kommun,V,2018-09-24
-0334816698724,Q4979119,Karolina Skog,Stockholms län,MP,2019-01-22
 0128805841317,Q4941068,Katarina Brännström,Kronobergs län,M,2018-09-24
 0768554866215,Q61103104,Katja Nyberg,Stockholms kommun,SD,2018-09-24
 0155487380917,Q4964100,Kerstin Lundgren,Stockholms län,C,2018-09-24
@@ -278,7 +277,6 @@ id,item,name,area,party,start
 055257333723,Q18617010,Oscar Sjöstedt,Västmanlands län,SD,2018-09-24
 0545733815610,Q6068516,Patrick Reslow,Värmlands län,SD,2018-09-24
 0516528386117,Q5577436,Patrik Björck,Västra Götalands läns östra,S,2018-09-24
-085742305813,Q30000498,Patrik Engström,Dalarnas län,S,2018-09-24
 0183544538819,Q18243181,Patrik Jönsson,Västra Götalands läns södra,SD,2018-09-24
 0418929039326,Q21561347,Patrik Lundqvist,Gävleborgs län,S,2021-12-20
 0974061238314,Q18202338,Paula Holmqvist,Västra Götalands läns norra,S,2018-09-24
@@ -292,6 +290,7 @@ id,item,name,area,party,start
 0274462857213,Q5969317,Petter Löberg,Västra Götalands läns södra,S,2018-09-24
 0460690753617,Q3370093,Pia Nilsson,Västmanlands län,S,2018-09-24
 0465804601318,Q57280146,Pia Steensland,Södermanlands län,KD,2018-09-24
+0926002991620,Q19976333,Pontus Andersson,Skåne läns västra,SD,2021-12-17
 0752691002718,Q6007973,Pyry Niemi,Uppsala län,S,2018-09-24
 0642224351118,Q27299991,Pål Jonson,Värmlands län,M,2018-09-24
 0744139167426,Q18243853,Rasmus Ling,Malmö kommun,MP,2021-01-01
@@ -305,7 +304,7 @@ id,item,name,area,party,start
 0308306375022,Q5781437,Roger Haddad,Västmanlands län,L,2018-09-24
 0773497241728,Q18274557,Roger Hedlund,Gävleborgs län,SD,2018-09-24
 0237055280513,Q6220743,Roland Utbult,Västra Götalands läns västra,KD,2018-09-24
-0194498232620,Q4951217,Roza Güclü Hedin,Dalarnas län,S,2018-09-24
+0194498232620,Q4951217,Roza Güclü Hedin,Dalarnas län,S,2022-01-10
 065701062615,Q18238847,Runar Filper,Värmlands län,SD,2018-09-24
 0519740099915,Q4973765,Saila Quicklund,Jämtlands län,M,2018-09-24
 0506541436524,Q18448703,Sanne Lennström,Uppsala län,S,2020-05-18
