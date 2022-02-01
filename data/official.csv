@@ -3,7 +3,7 @@ id,sourceid,name,party,area,seat,start
 0122987223112,4468626c-27a1-46c7-b530-f346b70b753b,Lotta Johnsson Fornarve,V,Södermanlands län,2,2018-09-24
 0155487380917,4a514760-f0a7-47a7-8a51-91bd46693df7,Kerstin Lundgren,C,Stockholms län,3,2018-09-24
 0722683622001,66c921d0-cc6d-4137-8e09-bd8c686faa11,Lars Jilmstad,M,Stockholms kommun,4,2020-01-01
-0911067396229,b20fb0ab-e161-4d7a-acc9-57c3923d5456,Mattias Vepsä,S,Stockholms kommun,5,2020-03-09
+0395762282903,57918418-7b85-433d-a5c1-f19dec68f655,Elsemarie Bjellqvist,S,Stockholms kommun,5,2022-02-01
 0363228965800,e7e41401-b4df-11d5-8079-0040ca16072a,Barbro Westerholm,L,Stockholms län,6,2018-09-24
 0607691439013,d7c32504-83e4-11d4-ae60-0050040c9b55,Karin Enström,M,Stockholms län,7,2018-09-24
 0973782197017,d7c3256b-83e4-11d4-ae60-0050040c9b55,Mikael Oscarsson,KD,Uppsala län,8,2018-09-24
@@ -22,7 +22,7 @@ id,sourceid,name,party,area,seat,start
 0427321850912,3badc18d-3c4a-4068-921a-b5fa8a9652d6,Lars Mejern Larsson,S,Värmlands län,21,2018-09-24
 0801311569314,434f8fc8-eb9d-4364-99f6-63f1ef873561,Gunilla Svantorp,S,Värmlands län,22,2018-09-24
 0460690753617,d6a34e6b-6f87-455c-ab36-fd75292f0ed0,Pia Nilsson,S,Västmanlands län,23,2018-09-24
-0227802801605,0363ee54-6077-4caf-b7d6-09dcb7051213,Thomas Hammarberg,S,Stockholms kommun,24,2019-09-05
+0911067396229,b20fb0ab-e161-4d7a-acc9-57c3923d5456,Mattias Vepsä,S,Stockholms kommun,24,2022-02-01
 0970259744617,d7c329da-83e4-11d4-ae60-0050040c9b55,Margareta Cederfelt,M,Stockholms kommun,25,2018-09-24
 0497217816024,4da8bb6b-fc06-4f3a-ba25-f70dfe5eb5a7,Markus Selin,S,Stockholms län,26,2020-08-01
 0999976269027,d12313ba-680b-4784-b858-5c9e6db692e7,Amanda Palmstierna,MP,Stockholms län,27,2019-10-01
@@ -279,7 +279,7 @@ id,sourceid,name,party,area,seat,start
 0494843794418,1e70f7df-dd11-410b-941a-bcac14e919a8,Martin Ådahl,C,Stockholms kommun,278,2018-09-24
 0768554866215,243a8476-df07-435b-b2e8-50d03926ae51,Katja Nyberg,SD,Stockholms kommun,279,2018-09-24
 0962410717322,50277320-fb16-40ba-82aa-8093fbb3126e,Sultan Kayhan,S,Stockholms kommun,280,2020-03-09
-0395762282903,57918418-7b85-433d-a5c1-f19dec68f655,Elsemarie Bjellqvist,S,Stockholms kommun,281,2021-11-30
+0751280022025,dc23cb1d-396b-4731-ac78-2a9351606962,Alexander Ojanne,S,Stockholms kommun,281,2022-02-01
 0852475703226,d3874590-31fb-4743-8d55-2565df5ed8af,Lorena Delgado Varas,V,Stockholms län,282,2018-09-24
 0389795960120,bbae3c94-0baa-41c3-afac-0f0cc3d713d3,Martin Marmgren,MP,Stockholms län,283,2022-01-11
 0378597308227,86c365a5-452c-4bca-8871-45bf67a44645,Camilla Brodin,KD,Stockholms län,284,2018-09-24
