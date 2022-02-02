@@ -18,6 +18,7 @@ id,item,name,area,party,start
 0831039938224,Q15963975,Adam Marttinen,Södermanlands län,SD,2018-09-24
 0442629549320,Q5621490,Adnan Dibrani,Hallands län,S,2018-09-24
 0279488554424,Q65499866,Alexander Christiansson,Göteborgs kommun,SD,2018-09-24
+0751280022025,Q110776549,Alexander Ojanne,Stockholms kommun,S,2022-02-01
 0866055333028,Q30035697,Alexandra Anstrell,Stockholms län,M,2018-09-24
 014386615025,Q4724776,Ali Esbati,Stockholms kommun,V,2018-09-24
 0364687971222,Q70621742,Alireza Akhondi,Stockholms län,C,2018-09-24
@@ -99,7 +100,7 @@ id,item,name,area,party,start
 0640627133410,Q57168691,Elisabeth Falkhaven,Hallands län,MP,2018-09-24
 0899112324519,Q4981393,Elisabeth Svantesson,Örebro län,M,2018-09-24
 0144048894712,Q4957570,Ellen Juntti,Västra Götalands läns västra,M,2019-04-12
-0395762282903,Q96323930,Elsemarie Bjellqvist,Stockholms kommun,S,2021-11-30
+0395762282903,Q96323930,Elsemarie Bjellqvist,Stockholms kommun,S,2022-02-01
 0604459858621,Q18202407,Emilia Töyrä,Norrbottens län,S,2021-08-28
 0628870165823,Q18242665,Emma Hult,Jönköpings län,MP,2018-09-24
 091303475611,Q60144183,Eric Palmqvist,Norrbottens län,SD,2018-09-24
@@ -255,7 +256,7 @@ id,item,name,area,party,start
 0522054204918,Q70588456,Mattias Karlsson,Norrbottens län,M,2018-09-24
 0831636664429,Q5901848,Mattias Karlsson,Kronobergs län,SD,2018-09-24
 0860364634014,Q16633339,Mattias Ottosson,Östergötlands län,S,2018-09-24
-0911067396229,Q6223773,Mattias Vepsä,Stockholms kommun,S,2020-03-09
+0911067396229,Q6223773,Mattias Vepsä,Stockholms kommun,S,2022-02-01
 0415959965211,Q4981668,Mia Sydow Mölleby,Örebro län,V,2018-09-24
 0892978334516,Q5556973,Michael Anefur,Skåne läns västra,KD,2020-08-31
 0694917698222,Q62745971,Michael Rubbestad,Uppsala län,SD,2018-09-24
@@ -321,7 +322,6 @@ id,item,name,area,party,start
 0772402807013,Q6201234,Sven-Olof Sällström,Kronobergs län,SD,2018-09-24
 0559925283228,Q4962466,Teres Lindberg,Stockholms kommun,S,2018-09-24
 0315499690028,Q18202339,Teresa Carvalho,Östergötlands län,S,2019-12-01
-0227802801605,Q438397,Thomas Hammarberg,Stockholms kommun,S,2019-09-05
 0880018341619,Q71055616,Thomas Morell,Gävleborgs län,SD,2018-09-24
 0582811195313,Q4933704,Tina Acketoft,Skåne läns västra,L,2018-09-26
 086684470825,Q26211839,Tobias Andersson,Västra Götalands läns östra,SD,2018-09-24
