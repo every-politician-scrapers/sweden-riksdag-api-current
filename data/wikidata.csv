@@ -70,6 +70,7 @@ id,item,name,area,party,start
 0781623040415,Q4990177,Camilla Waltersson Grönvall,Västra Götalands läns västra,M,2018-09-24
 0859968278117,Q3363827,Carina Ohlsson,Västra Götalands läns östra,S,2018-09-24
 02910042914,Q57168837,Carina Ödebrink,Jönköpings län,S,2018-09-24
+0108109641223,Q5580727,Carl-Oskar Bohlin,Dalarnas län,M,2022-02-14
 0537400268911,Q3374751,Caroline Helmersson Olsson,Södermanlands län,S,2018-09-24
 0285527517421,Q71453214,Caroline Nordengrip,Västra Götalands läns södra,SD,2018-09-24
 0905312407726,Q18246234,Cassandra Sundin,Jämtlands län,SD,2018-09-24
@@ -331,7 +332,6 @@ id,item,name,area,party,start
 0161597857912,Q4354054,Tuve Skånberg,Skåne läns norra och östra,KD,2018-09-24
 0222691314314,Q1780398,Ulf Kristersson,Stockholms kommun,M,2018-09-24
 0628190530410,Q4935938,Ulla Andersson,Gävleborgs län,V,2018-09-24
-0426843954410,Q109830262,Ulrik Bergman,Dalarnas län,M,2021-12-02
 0836001490919,Q4987958,Ulrika Heie,Västra Götalands läns östra,C,2018-09-24
 0764949934324,Q30000205,Ulrika Heindorff,Skåne läns västra,M,2021-05-03
 0598792324417,Q71057524,Ulrika Jörgensen,Hallands län,M,2018-09-24
