@@ -114,7 +114,6 @@ id,item,name,area,party,start
 0557180142229,Q71132556,Fredrik Lindahl,Stockholms län,SD,2018-09-24
 0911916463828,Q5966830,Fredrik Lundh Sammeli,Norrbottens län,S,2018-09-24
 0766496753128,Q3675520,Fredrik Malm,Stockholms kommun,L,2018-09-24
-0210198640127,Q6169540,Fredrik Schulte,Stockholms län,M,2019-07-02
 0304498908019,Q4940950,Gudrun Brunegård,Kalmar län,KD,2019-04-01
 0961483563503,Q101093736,Gudrun Nordborg,Västerbottens län,V,2020-11-04
 0800956862429,Q3674337,Gulan Avci,Stockholms kommun,L,2018-09-24
@@ -151,6 +150,7 @@ id,item,name,area,party,start
 0121939297619,Q30035682,Jamal El-Haj,Malmö kommun,S,2018-09-24
 0940980416614,Q1681740,Jan Ericson,Västra Götalands läns södra,M,2018-09-24
 0316505710324,Q18238692,Janine Alm Ericson,Västra Götalands läns västra,MP,2021-11-30
+0833552896828,Q111342604,Jasmin Farid,Stockholms län,M,2022-03-23
 0339894357417,Q4563096,Jennie Nilsson,Hallands län,S,2021-06-30
 0787535945527,Q18275046,Jennie Åfeldt,Skåne läns södra,SD,2018-09-24
 0216534495014,Q946708,Jens Holm,Stockholms kommun,V,2018-09-24
@@ -298,7 +298,7 @@ id,item,name,area,party,start
 0752691002718,Q6007973,Pyry Niemi,Uppsala län,S,2018-09-24
 0642224351118,Q27299991,Pål Jonson,Värmlands län,M,2018-09-24
 0744139167426,Q18243853,Rasmus Ling,Malmö kommun,MP,2021-01-01
-088461404416,Q5803123,Richard Herrey,Stockholms län,M,2021-12-10
+088461404416,Q5803123,Richard Herrey,Stockholms län,M,2022-03-23
 0803753212716,Q5890031,Richard Jomshof,Blekinge län,SD,2018-09-24
 0132818093422,Q6015398,Rickard Nordin,Göteborgs kommun,C,2018-09-24
 0134101155612,Q5938586,Rikard Larsson,Skåne läns södra,S,2018-09-24
