@@ -46,7 +46,7 @@ id,sourceid,name,party,area,seat,start
 0545733815610,6aa5f2eb-568a-4853-a925-65fee736b037,Patrick Reslow,SD,Värmlands län,45,2018-09-24
 0665485817222,d9b65520-dba2-4ec1-a124-d89d667ebf37,Daniel Bäckström,C,Värmlands län,46,2018-09-24
 0879782396219,6d1640b5-12e6-41a3-82a2-a3e91c172cda,Olle Thorell,S,Västmanlands län,47,2018-09-24
-0378961686325,783f84c9-6b97-47c9-9bf8-a32dcbae1bc4,Hanna Wagenius,C,Jämtlands län,48,2022-04-04
+0679228585116,74c39a37-e184-44f6-9a7e-36cdb06c9dcc,Per Åsling,C,Jämtlands län,48,2022-05-07
 0519740099915,243f0434-ae15-41b4-92b6-146a0fb0700a,Saila Quicklund,M,Jämtlands län,49,2018-09-24
 0222691314314,e7e4132a-b4df-11d5-8079-0040ca16072a,Ulf Kristersson,M,Stockholms kommun,50,2018-09-24
 0766496753128,cf017275-5272-4506-a686-4e1d8edc5ab6,Fredrik Malm,L,Stockholms kommun,51,2018-09-24
@@ -84,7 +84,7 @@ id,sourceid,name,party,area,seat,start
 0638497389621,04727b66-64cd-4880-be85-dc8fe873bf8d,Julia Kronlid,SD,Stockholms län,83,2018-09-24
 0166790812128,b86c28d2-48d1-41a6-bea3-b3317cdfeec8,Hanif Bali,M,Stockholms län,84,2018-09-24
 0982795248728,0ab695ba-6994-11d7-ae76-0004755038ce,Jakob Forssmed,KD,Stockholms län,85,2020-02-21
-0732677378827,c994a157-6301-46d2-a111-abe58ec220f4,Marta Obminska,M,Uppsala län,86,2022-04-09
+0397924710612,ca44a628-ee7f-4760-a56a-6ac195740ba0,Ulrika Karlsson,M,Uppsala län,86,2022-05-06
 075747847023,82c56b96-b106-4b16-958c-98b153d02639,Gustaf Lantz,S,Uppsala län,87,2020-12-16
 0860364634014,df8c5ae3-43e8-4d8a-bf64-67b9a78fef66,Mattias Ottosson,S,Östergötlands län,88,2018-09-24
 0150118366721,1c03e794-a9a3-43d5-810a-7951e4c70901,Linda Westerlund Snecker,V,Östergötlands län,89,2018-09-24
