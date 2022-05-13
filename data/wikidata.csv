@@ -123,7 +123,6 @@ id,item,name,area,party,start
 0435740736429,Q63869806,Hampus Hagman,Göteborgs kommun,KD,2018-09-24
 0166790812128,Q5564796,Hanif Bali,Stockholms län,M,2018-09-24
 0411459873625,Q57168756,Hanna Gunnarsson,Skåne läns södra,V,2018-09-24
-0378961686325,Q4990062,Hanna Wagenius,Jämtlands län,C,2022-04-04
 0412148992926,Q19977330,Hanna Westerén,Gotlands län,S,2018-09-24
 012576033427,Q4938643,Hannah Bergstedt,Norrbottens län,S,2021-11-30
 0494242537816,Q5629994,Hans Eklind,Örebro län,KD,2018-09-24
@@ -242,7 +241,6 @@ id,item,name,area,party,start
 0204240926023,Q6240455,Markus Wiechel,Östergötlands län,SD,2021-11-25
 0853204119514,Q42369058,Marlene Burwick,Uppsala län,S,2018-09-24
 0358514648113,Q57168695,Marléne Lund Kopparklint,Värmlands län,M,2018-09-24
-0732677378827,Q4970743,Marta Obminska,Uppsala län,M,2022-04-09
 0294138886823,Q5910434,Martin Kinnunen,Stockholms län,SD,2018-09-24
 0389795960120,Q110540198,Martin Marmgren,Stockholms län,MP,2022-01-11
 0494843794418,Q6254715,Martin Ådahl,Stockholms kommun,C,2018-09-24
@@ -290,6 +288,7 @@ id,item,name,area,party,start
 0925652297119,Q6062372,Per Ramhorn,Malmö kommun,SD,2018-09-24
 0170630324419,Q71064125,Per Schöldberg,Kronobergs län,C,2019-03-12
 0492644357418,Q71546781,Per Söderlund,Örebro län,SD,2019-02-01
+0679228585116,Q6255956,Per Åsling,Jämtlands län,C,2022-05-07
 0630820052511,Q21531339,Per-Arne Håkansson,Skåne läns norra och östra,S,2018-09-24
 0681030112815,Q25935880,Peter Helander,Dalarnas län,C,2018-09-24
 0274462857213,Q5969317,Petter Löberg,Västra Götalands läns södra,S,2018-09-24
@@ -337,6 +336,7 @@ id,item,name,area,party,start
 0628190530410,Q4935938,Ulla Andersson,Gävleborgs län,V,2018-09-24
 0836001490919,Q4987958,Ulrika Heie,Västra Götalands läns östra,C,2018-09-24
 0598792324417,Q71057524,Ulrika Jörgensen,Hallands län,M,2018-09-24
+0397924710612,Q4958187,Ulrika Karlsson,Uppsala län,M,2022-05-06
 0228027853620,Q4983517,Vasiliki Tsouplaki,Västmanlands län,V,2018-09-24
 0796312429425,Q60732958,Viktor Wärnick,Gävleborgs län,M,2018-09-24
 0996640018922,Q18202336,Yasmine Bladelius,Skåne läns västra,S,2021-05-01
