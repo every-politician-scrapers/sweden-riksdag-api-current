@@ -60,7 +60,7 @@ id,sourceid,name,party,area,seat,start
 0792733370419,0d218eb6-6294-4587-8abf-be0a351d7213,Magnus Oscarsson,KD,Östergötlands län,59,2018-09-24
 042413114103,314fe869-7e6c-441f-8d1f-5ab2c6052f1d,Anne Oskarsson,SD,Kalmar län,60,2018-09-24
 0457722435319,173d7387-fa63-4689-ac8c-e12f278487bd,Tomas Kronståhl,S,Kalmar län,61,2020-12-02
-0916608741910,11cd95fa-2fae-45e4-a920-f7d5cf13e0d3,Suzanne Svensson,S,Blekinge län,62,2022-03-28
+025967059622,639da251-c800-4b3d-a8c5-6626094c9035,Magnus Manhammar,S,Blekinge län,62,2022-05-16
 0138741628520,9d68c0c3-2102-402d-998f-dc56a410d19d,Angelika Bengtsson,SD,Blekinge län,63,2018-09-24
 0134101155612,d3a9b52a-0d94-4610-b20e-d0ed8375c9d1,Rikard Larsson,S,Skåne läns södra,64,2018-09-24
 0787535945527,f17df284-828f-481d-9f83-8c6d2b6d2576,Jennie Åfeldt,SD,Skåne läns södra,65,2018-09-24
@@ -179,7 +179,7 @@ id,sourceid,name,party,area,seat,start
 0853204119514,cec8b2f1-f56f-4b7e-974f-eefa299c89cb,Marlene Burwick,S,Uppsala län,178,2018-09-24
 0161616238120,87042942-c4f6-46ff-9eac-fceaf25729d5,Lina Nordquist,L,Uppsala län,179,2018-09-24
 025931369428,9944df03-e946-4046-aeef-c49117503a0c,Jonas Andersson,SD,Östergötlands län,180,2018-09-24
-0694273653613,0db8710b-fb8c-4e23-9f9e-e9fa7486ef15,Margareta Fransson,MP,Östergötlands län,181,2021-09-19
+0546731406922,67e327d0-b2ca-47eb-802a-c140187f0e0c,Rebecka Le Moine,MP,Östergötlands län,181,2022-05-16
 0760500234712,6f818cd1-9a97-412f-bc59-1d1e8a2ceb19,Monica Haider,S,Kronobergs län,182,2018-09-24
 0729710260118,a65ace9d-bbae-43cd-8a21-119c8b3b0bfb,Helena Bouveng,M,Jönköpings län,183,2018-09-24
 0121939297619,6a1b02dd-bdc4-4019-ab3e-dfeb133018ed,Jamal El-Haj,S,Malmö kommun,184,2018-09-24
