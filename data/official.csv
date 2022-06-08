@@ -3,7 +3,6 @@ id,sourceid,name,party,area,seat,start
 0122987223112,4468626c-27a1-46c7-b530-f346b70b753b,Lotta Johnsson Fornarve,V,Södermanlands län,2,2018-09-24
 0155487380917,4a514760-f0a7-47a7-8a51-91bd46693df7,Kerstin Lundgren,C,Stockholms län,3,2018-09-24
 0722683622001,66c921d0-cc6d-4137-8e09-bd8c686faa11,Lars Jilmstad,M,Stockholms kommun,4,2020-01-01
-0395762282903,57918418-7b85-433d-a5c1-f19dec68f655,Elsemarie Bjellqvist,S,Stockholms kommun,5,2022-02-01
 0363228965800,e7e41401-b4df-11d5-8079-0040ca16072a,Barbro Westerholm,L,Stockholms län,6,2018-09-24
 0607691439013,d7c32504-83e4-11d4-ae60-0050040c9b55,Karin Enström,M,Stockholms län,7,2018-09-24
 0973782197017,d7c3256b-83e4-11d4-ae60-0050040c9b55,Mikael Oscarsson,KD,Uppsala län,8,2018-09-24
@@ -241,7 +240,7 @@ id,sourceid,name,party,area,seat,start
 0911916463828,19d6281a-a1fc-4399-9631-89acf6420f42,Fredrik Lundh Sammeli,S,Norrbottens län,240,2018-09-24
 0706528359123,d17ef55a-9e3b-4a4d-894e-d57c7fb4973f,Linus Sköld,S,Norrbottens län,241,2019-01-30
 0800956862429,9d13985d-9d6c-4cba-8492-1155d94fbe69,Gulan Avci,L,Stockholms kommun,242,2018-09-24
-0685749336810,56a35546-926b-4ac3-a101-a157de119e00,Dag Larsson,S,Stockholms kommun,243,2018-09-24
+0395762282903,57918418-7b85-433d-a5c1-f19dec68f655,Elsemarie Bjellqvist,S,Stockholms kommun,243,2022-06-07
 0502490570219,8cafb7dc-dbdd-4ac4-bd56-1e4e75daa4a6,Kristina Axén Olin,M,Stockholms kommun,244,2018-09-24
 0495661214429,087644a0-838d-4768-9133-62745aeee287,Lorentz Tovatt,MP,Stockholms kommun,245,2021-02-01
 0194021108712,eda7cbeb-16f4-4a35-b0cd-ca4158e60906,Mikael Strandman,SD,Stockholms län,246,2018-09-24
