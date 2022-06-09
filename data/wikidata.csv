@@ -17,7 +17,7 @@ id,item,name,area,party,start
 0831039938224,Q15963975,Adam Marttinen,Södermanlands län,SD,2018-09-24
 0442629549320,Q5621490,Adnan Dibrani,Hallands län,S,2018-09-24
 0279488554424,Q65499866,Alexander Christiansson,Göteborgs kommun,SD,2018-09-24
-0751280022025,Q110776549,Alexander Ojanne,Stockholms kommun,S,2022-02-01
+0751280022025,Q110776549,Alexander Ojanne,Stockholms kommun,S,2022-06-08
 0866055333028,Q30035697,Alexandra Anstrell,Stockholms län,M,2018-09-24
 0496341906327,Q18202415,Alexandra Völker,Stockholms län,S,2022-02-07
 014386615025,Q4724776,Ali Esbati,Stockholms kommun,V,2018-09-24
@@ -29,6 +29,7 @@ id,item,name,area,party,start
 0843345349823,Q4753804,Anders Hansson,Skåne läns södra,M,2018-09-24
 0677738818613,Q6255521,Anders Åkesson,Kalmar län,C,2018-09-24
 0277648711624,Q30035700,Anders Österberg,Stockholms kommun,S,2018-09-24
+088172351225,Q20890201,Andrea Törnestam,Stockholms kommun,S,2022-06-08
 0542160909628,Q5602835,Andreas Carlson,Jönköpings län,KD,2020-03-19
 02658325625,Q71062310,Angelica Lundberg,Jönköpings län,SD,2018-09-24
 0138741628520,Q18237639,Angelika Bengtsson,Blekinge län,SD,2018-09-24
@@ -82,7 +83,6 @@ id,item,name,area,party,start
 0325462829512,Q18246550,Christina Tapper Östberg,Skåne läns norra och östra,SD,2018-09-24
 0776705932527,Q57168740,Ciczie Weidby,Jönköpings län,V,2018-09-24
 0130640724922,Q70886056,Clara Aranda,Skåne läns södra,SD,2018-09-24
-0685749336810,Q5937190,Dag Larsson,Stockholms kommun,S,2018-09-24
 0594680769027,Q74566289,Daniel Andersson,Örebro län,S,2021-09-03
 0665485817222,Q18600515,Daniel Bäckström,Värmlands län,C,2018-09-24
 07012286624,Q18245374,Daniel Riazat,Dalarnas län,V,2018-09-24
@@ -100,7 +100,7 @@ id,item,name,area,party,start
 0640627133410,Q57168691,Elisabeth Falkhaven,Hallands län,MP,2018-09-24
 0899112324519,Q4981393,Elisabeth Svantesson,Örebro län,M,2018-09-24
 0144048894712,Q4957570,Ellen Juntti,Västra Götalands läns västra,M,2019-04-12
-0395762282903,Q96323930,Elsemarie Bjellqvist,Stockholms kommun,S,2022-02-01
+0395762282903,Q96323930,Elsemarie Bjellqvist,Stockholms kommun,S,2022-06-07
 0604459858621,Q18202407,Emilia Töyrä,Norrbottens län,S,2021-08-28
 0624040854527,Q57168687,Emma Berginger,Skåne läns södra,MP,2022-05-20
 0628870165823,Q18242665,Emma Hult,Jönköpings län,MP,2018-09-24
