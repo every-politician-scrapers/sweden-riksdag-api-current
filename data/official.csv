@@ -56,7 +56,7 @@ id,sourceid,name,party,area,seat,start
 0313390540217,9cd4ce1a-c1f5-4743-aed6-8e60569e9947,Ingela Nylund Watz,S,Stockholms län,55,2018-09-24
 0752691002718,f0303245-c279-46dc-bffb-549d300db73a,Pyry Niemi,S,Uppsala län,56,2018-09-24
 0718034011110,5e09bf12-6f96-4a96-ac0c-27203aef4d2f,Jessika Roswall,M,Uppsala län,57,2018-09-24
-0204240926023,8a9f3c8c-8ce8-4a17-9e57-0109af47efcc,Marcus Wiechel,SD,Östergötlands län,58,2021-11-25
+0204240926023,8a9f3c8c-8ce8-4a17-9e57-0109af47efcc,Markus Wiechel,SD,Östergötlands län,58,2021-11-25
 0792733370419,0d218eb6-6294-4587-8abf-be0a351d7213,Magnus Oscarsson,KD,Östergötlands län,59,2018-09-24
 042413114103,314fe869-7e6c-441f-8d1f-5ab2c6052f1d,Anne Oskarsson,SD,Kalmar län,60,2018-09-24
 0457722435319,173d7387-fa63-4689-ac8c-e12f278487bd,Tomas Kronståhl,S,Kalmar län,61,2020-12-02
@@ -129,7 +129,7 @@ id,sourceid,name,party,area,seat,start
 0980316377627,4cc89ee3-f5bd-4009-a13f-d86a40caff16,Lars Hjälmered,M,Göteborgs kommun,128,2019-05-11
 0499755198526,9ae916dd-799d-4d2b-80c4-f00bc5a7344d,Mattias Jonsson,S,Göteborgs kommun,129,2018-09-24
 069309987221,31ae8846-ad0b-4ff2-aaf7-72b398d1fb5a,Johan Hultberg,M,Västra Götalands läns norra,130,2020-03-02
-0977592683711,d7c3282f-83e4-11d4-ae60-0050040c9b55,Magnus Jakobsson,KD,Västra Götalands läns norra,131,2018-09-24
+0977592683711,d7c3282f-83e4-11d4-ae60-0050040c9b55,Magnus Jacobsson,KD,Västra Götalands läns norra,131,2018-09-24
 0358514648113,ac019194-2cf6-4ebd-8d29-29e1f3950cdf,Marléne Lund Kopparklint,M,Värmlands län,132,2018-09-24
 0509415296421,708eae46-00f3-433c-ba07-7129def782fb,Kjell-Arne Ottosson,KD,Värmlands län,133,2018-09-24
 0296384583518,473cc883-b475-42fe-8553-4f1a6bd17a54,Åsa Eriksson,S,Västmanlands län,134,2018-09-24
@@ -148,7 +148,7 @@ id,sourceid,name,party,area,seat,start
 064711971110,d9a13d2e-85ec-4c59-af10-773ff99b8eb1,Maria Gardfjell,MP,Uppsala län,147,2018-09-24
 0281670919717,086bff3d-8adb-47c2-b5dc-86d4a9f1b191,Jörgen Grubb,SD,Östergötlands län,148,2018-09-24
 0719332223713,3eae18dc-594f-44eb-95a8-0e5b2b71d645,Juno Blom,L,Östergötlands län,149,2018-09-24
-0772402807013,06776272-4f62-44c7-9011-f66349279c88,Sven Olof Sällström,SD,Kronobergs län,150,2018-09-24
+0772402807013,06776272-4f62-44c7-9011-f66349279c88,Sven-Olof Sällström,SD,Kronobergs län,150,2018-09-24
 0831636664429,727e2213-ac97-4ceb-bfab-f228debd8074,Mattias Karlsson,SD,Kronobergs län,151,2018-09-24
 0925652297119,e9375099-ca5f-4aac-a0ab-de8e3ed1ee99,Per Ramhorn,SD,Malmö kommun,152,2018-09-24
 0744139167426,8af2f4df-6c44-4844-89af-c0fd142e4eed,Rasmus Ling,MP,Malmö kommun,153,2021-01-01
@@ -182,7 +182,7 @@ id,sourceid,name,party,area,seat,start
 0546731406922,67e327d0-b2ca-47eb-802a-c140187f0e0c,Rebecka Le Moine,MP,Östergötlands län,181,2022-05-16
 0760500234712,6f818cd1-9a97-412f-bc59-1d1e8a2ceb19,Monica Haider,S,Kronobergs län,182,2018-09-24
 0729710260118,a65ace9d-bbae-43cd-8a21-119c8b3b0bfb,Helena Bouveng,M,Jönköpings län,183,2018-09-24
-0121939297619,6a1b02dd-bdc4-4019-ab3e-dfeb133018ed,Jamal El Haj,S,Malmö kommun,184,2018-09-24
+0121939297619,6a1b02dd-bdc4-4019-ab3e-dfeb133018ed,Jamal El-Haj,S,Malmö kommun,184,2018-09-24
 0254695027922,f257311a-2900-4db5-a2e2-df250c764ad6,Malcolm Momodou Jallow,V,Malmö kommun,185,2018-09-24
 0624040854527,280f9475-e1a8-495b-96bf-04b1b0497a00,Emma Berginger,MP,Skåne läns södra,186,2022-05-20
 0130640724922,6977f22f-363b-40fb-8f8f-8163b4492345,Clara Aranda,SD,Skåne läns södra,187,2018-09-24
@@ -200,7 +200,7 @@ id,sourceid,name,party,area,seat,start
 0415959965211,0c2f572c-a7ce-4f39-8ea9-9a758a01680c,Mia Sydow Mölleby,V,Örebro län,199,2018-09-24
 023732429721,939a9917-d0d3-40cc-bef4-96d29d140fdf,Sofie Eriksson,S,Dalarnas län,200,2022-01-10
 0108109641223,7223f863-4406-4833-8f54-ed21dd2ccbc3,Carl-Oskar Bohlin,M,Dalarnas län,201,2022-02-14
-0671241874717,96765f90-7072-436d-8143-264d7cbd7fa9,Elisabeth Rahm,M,Västerbottens län,202,2018-09-24
+0671241874717,96765f90-7072-436d-8143-264d7cbd7fa9,Elisabeth Björnsdotter Rahm,M,Västerbottens län,202,2018-09-24
 0482689573825,7ef75999-90a2-41af-a083-6dfd70e8e3e8,Björn Wiechel,S,Västerbottens län,203,2020-08-10
 0538494048717,c5e9daf0-868f-4c8e-9a69-671c7b22855a,Jonas Andersson,SD,Västerbottens län,204,2018-09-24
 0648224557612,317c6cc9-dcd5-4dcc-b275-9e17d973da4c,Åsa Karlsson,S,Västerbottens län,205,2018-09-24
@@ -215,7 +215,7 @@ id,sourceid,name,party,area,seat,start
 0694917698222,6025366f-76b8-4664-a3ef-ea0864fc8365,Michael Rubbestad,SD,Uppsala län,214,2018-09-24
 0521260619925,359e75f3-519e-49d7-b155-ada488e621ea,Sofia Amloh,S,Södermanlands län,215,2021-09-08
 057993099726,529ac523-d10b-444b-8441-56a24a66ef5b,Magnus Ek,C,Östergötlands län,216,2018-09-24
-0742883909221,5af2318e-82dc-4271-b219-c12b3d74d11a,John E. Weinerhall,M,Östergötlands län,217,2018-09-24
+0742883909221,5af2318e-82dc-4271-b219-c12b3d74d11a,John Weinerhall,M,Östergötlands län,217,2018-09-24
 0862868280923,e234524d-e04b-448a-b609-05926a0a8b36,Annie Lööf,C,Jönköpings län,218,2020-09-01
 0409655917321,cf93a30c-7563-418e-a111-60d31ad24bcc,Jakob Olofsgård,L,Jönköpings län,219,2021-08-01
 0376395541120,4a486ea1-d97c-4393-9ada-2639140cfd46,Joakim Sandell,S,Malmö kommun,220,2022-05-23
@@ -237,7 +237,7 @@ id,sourceid,name,party,area,seat,start
 0204494765606,71b2ece2-dcf7-4e51-aa4c-042cca81cf1e,Ann-Britt Åsebol,M,Dalarnas län,236,2018-09-24
 0136801772915,566a8a1c-0625-4f24-9beb-6b6dec928df7,Maria Strömkvist,S,Dalarnas län,237,2018-09-24
 0628190530410,a9eff036-3d8c-487e-9325-e3bece8df1e4,Ulla Andersson,V,Gävleborgs län,238,2018-09-24
-0229760896014,6ad91da1-1287-4e8f-9778-3315390fdfca,Anders W Jonsson,C,Gävleborgs län,239,2018-09-24
+0229760896014,6ad91da1-1287-4e8f-9778-3315390fdfca,Anders Jonsson,C,Gävleborgs län,239,2018-09-24
 0911916463828,19d6281a-a1fc-4399-9631-89acf6420f42,Fredrik Lundh Sammeli,S,Norrbottens län,240,2018-09-24
 0706528359123,d17ef55a-9e3b-4a4d-894e-d57c7fb4973f,Linus Sköld,S,Norrbottens län,241,2019-01-30
 0800956862429,9d13985d-9d6c-4cba-8492-1155d94fbe69,Gulan Avci,L,Stockholms kommun,242,2018-09-24
@@ -262,7 +262,7 @@ id,sourceid,name,party,area,seat,start
 0325462829512,aa5e595b-e755-4a4e-a457-ea289ad1add3,Christina Tapper Östberg,SD,Skåne läns norra och östra,261,2018-09-24
 0228167770927,f950f83d-d19e-4ae8-82c5-8a302c4bd0eb,Maria Nilsson,L,Göteborgs kommun,262,2018-09-24
 0279488554424,300c041c-1f7e-4daa-97e0-4d2ec8e6f4f5,Alexander Christiansson,SD,Göteborgs kommun,263,2018-09-24
-0257612529618,f1484855-05d7-498f-8872-5a0c33ad535b,Kenneth Forslund,S,Västra Götalands läns västra,264,2018-09-24
+0257612529618,f1484855-05d7-498f-8872-5a0c33ad535b,Kenneth G Forslund,S,Västra Götalands läns västra,264,2018-09-24
 0237055280513,e3b6587d-15fd-4a54-a95b-c1eaa56d2f68,Roland Utbult,KD,Västra Götalands läns västra,265,2018-09-24
 0144048894712,efb2daaa-8053-411f-9fc7-dfcca1395bb0,Ellen Juntti,M,Västra Götalands läns västra,266,2019-04-12
 0781623040415,e581b273-02ee-4cb3-9390-35ea0061eca1,Camilla Waltersson Grönvall,M,Västra Götalands läns västra,267,2018-09-24
@@ -280,7 +280,7 @@ id,sourceid,name,party,area,seat,start
 0768554866215,243a8476-df07-435b-b2e8-50d03926ae51,Katja Nyberg,SD,Stockholms kommun,279,2018-09-24
 0962410717322,50277320-fb16-40ba-82aa-8093fbb3126e,Sultan Kayhan,S,Stockholms kommun,280,2020-03-09
 088172351225,b302a522-d88c-43bb-bc8f-daa51959db07,Andrea Törnestam,S,Stockholms kommun,281,2022-06-08
-0852475703226,d3874590-31fb-4743-8d55-2565df5ed8af,Lorena Delgado,V,Stockholms län,282,2018-09-24
+0852475703226,d3874590-31fb-4743-8d55-2565df5ed8af,Lorena Delgado Varas,V,Stockholms län,282,2018-09-24
 0389795960120,bbae3c94-0baa-41c3-afac-0f0cc3d713d3,Martin Marmgren,MP,Stockholms län,283,2022-01-11
 0378597308227,86c365a5-452c-4bca-8871-45bf67a44645,Camilla Brodin,KD,Stockholms län,284,2018-09-24
 0364687971222,4099ff9c-5d27-4605-b018-98fb229d94fa,Alireza Akhondi,C,Stockholms län,285,2018-09-24
