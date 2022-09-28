@@ -18,6 +18,7 @@ id,sourceid,name,party,area,seat,start
 0875221317013,11d950d5-e41f-4e94-af86-ae8a1996d81b,Gunilla Carlsson,S,Göteborgs kommun,17,2022-09-26
 0499755198526,9ae916dd-799d-4d2b-80c4-f00bc5a7344d,Mattias Jonsson,S,Göteborgs kommun,18,2022-09-26
 069309987221,31ae8846-ad0b-4ff2-aaf7-72b398d1fb5a,Johan Hultberg,M,Västra Götalands läns norra,19,2022-09-26
+0412502344925,8e2f51ce-da1c-4832-9708-20fd1923b2f3,Ida Ekeroth Clausson,S,Västra Götalands läns östra,20,2022-09-26
 0516528386117,8a5b8260-f6d5-4d17-af0b-a339cd40470e,Patrik Björck,S,Västra Götalands läns östra,21,2022-09-26
 0194498232620,e53ce4a4-b399-4ed6-9815-cb96818871b3,Roza Güclü Hedin,S,Dalarnas län,22,2022-09-26
 0229760896014,6ad91da1-1287-4e8f-9778-3315390fdfca,Anders Jonsson,C,Gävleborgs län,23,2022-09-26
@@ -179,6 +180,7 @@ id,sourceid,name,party,area,seat,start
 075747847023,82c56b96-b106-4b16-958c-98b153d02639,Gustaf Lantz,S,Uppsala län,179,2022-09-26
 0150118366721,1c03e794-a9a3-43d5-810a-7951e4c70901,Linda Westerlund Snecker,V,Östergötlands län,180,2022-09-26
 0315499690028,3d764cf6-705b-460b-8226-df8f1226b27b,Teresa Carvalho,S,Östergötlands län,181,2022-09-26
+0803790353229,77b55dda-a56c-4e88-b6a8-a6255ff783fb,Azra Muranovic,S,Jönköpings län,182,2022-09-26
 0610162335824,1bd865a4-5123-43ed-9f82-18ded584c0f1,Niklas Sigvardsson,S,Jönköpings län,183,2022-09-26
 0926214745119,a4581b8d-78fd-41c1-a55d-7fe9ed93c878,Heléne Björklund,S,Blekinge län,184,2022-09-26
 0148424181819,3298ed49-917f-4230-8cf5-e10a70a93727,Ann-Christine From Utterstedt,SD,Blekinge län,185,2022-09-26
