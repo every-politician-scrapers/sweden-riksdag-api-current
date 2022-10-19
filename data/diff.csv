@@ -1,4 +1,8 @@
 @@,id,name,area,party,start
+->,19984514570->11548866929.0,Johan Pehrson->Elin Nilsson,Örebro län,L,2022-09-26->2022-10-18
+->,23767922422.0->397073482210.0,Mats Persson->Camilla Mårtensen,Skåne läns södra,L,2022-09-26->2022-10-18
+->,512510717328.0->635943298419.0,Ebba Busch->Dan Hovskär,Västra Götalands läns östra,KD,2022-09-26->2022-10-18
+->,796071663617.0->302393368216.0,Acko Ankarberg Johansson->Camilla Rinaldo Miller,Jönköpings län,KD,2022-09-26->2022-10-18
 ->,663851410627.0,Beatrice Rugland Timgren->Beatrice Timgren,Stockholms län,SD,2022-09-26
 ->,802091197024.0,Andrea Andersson-Tay->Andrea Andersson Tay,Stockholms län,V,2022-09-26
 ->,662032691523.0,Amalia Pedersen->Amalia Rud Pedersen,Göteborgs kommun,S,2022-09-26
@@ -12,6 +16,53 @@
 ->,111697351426.0,Louise Eklund Bergström->Louise Eklund,Malmö kommun,L,2022-09-26
 ->,254695027922.0,Momodou Malcolm Jallow->Malcolm Momodou Jallow,Malmö kommun,V,2022-09-26
 ->,412502344925.0,Ida Ekeroth->Ida Ekeroth Clausson,Västra Götalands läns östra,S,2022-09-26
+---,62367962120.0,Åsa Lindhagen,Stockholms kommun,MP,2022-09-26
+---,222691314314.0,Ulf Kristersson,Södermanlands län,M,2022-09-26
+---,956595590924.0,Tobias Billström,Stockholms län,M,2022-09-26
+---,962410717322.0,Sultan Kayhan,Stockholms kommun,S,2022-09-26
+---,323000187920.0,Solange Olame Bayibsa,Stockholms län,S,2022-09-26
+---,194498232620.0,Roza Güclü Hedin,Dalarnas län,S,2022-09-26
+---,875693083423.0,Romina Pourmokhtari,Stockholms kommun,L,2022-09-26
+---,440225263920.0,Robert Olesen,Kronobergs län,S,2022-09-26
+---,642224351118.0,Pål Jonson,Värmlands län,M,2022-09-26
+---,493288854424.0,Niklas Wykman,Stockholms län,M,2022-09-26
 ---,591055036519.0,Mauricio Rojas,,-,2022-09-26
+---,572788110724.0,Maria Malmer Stenergard,Skåne läns norra och östra,M,2022-09-26
+---,618938634020.0,Marcus Wennerström,Uppsala län,S,2022-09-26
+---,476362590123.0,Louise Mörk,Norrbottens län,S,2022-09-26
+---,599661454115.0,Lena Bäckelin,Jämtlands län,S,2022-09-26
+---,126797549328.0,Johan Forssell,Stockholms kommun,M,2022-09-26
+---,718034011110.0,Jessika Roswall,Uppsala län,M,2022-09-26
+---,982795248728.0,Jakob Forssmed,Stockholms län,KD,2022-09-26
+---,395762282903.0,Elsemarie Bjellqvist,Stockholms kommun,S,2022-09-26
+---,899112324519.0,Elisabeth Svantesson,Örebro län,M,2022-09-26
+---,645111757928.0,Elin Gustafsson,Skåne läns södra,S,2022-09-26
+---,594680769027.0,Daniel Andersson,Örebro län,S,2022-09-26
+---,452784937426.0,Christopher Lindvall,Stockholms län,S,2022-09-26
+---,108109641223.0,Carl-Oskar Bohlin,Dalarnas län,M,2022-09-26
+---,781623040415.0,Camilla Waltersson Grönvall,Västra Götalands läns västra,M,2022-09-26
 ---,697733600628.0,Alexander Wasberg,Södermanlands län,S,2022-09-26
++++,42818410881,Carl B Hamilton,Stockholms kommun,L,2022-10-18
++++,18330285641,Katarina Luhr,Stockholms kommun,MP,2022-10-18
++++,407081382317.0,Anna-Caren Sätherberg,Jämtlands län,S,2022-10-18
++++,68822158616.0,Katarina Tolgfors,Örebro län,M,2022-10-18
++++,74310796828.0,Magnus Resare,Värmlands län,M,2022-10-18
++++,284192765516.0,Tomas Eneroth,Kronobergs län,S,2022-10-18
++++,983984918111.0,Matilda Ernkrans,Örebro län,S,2022-10-18
++++,922497728524.0,Ardalan Shekarabi,Uppsala län,S,2022-10-18
++++,327372175911.0,Fredrik Ahlstedt,Uppsala län,M,2022-10-18
++++,46243565712,Annika Strandhäll,Stockholms kommun,S,2022-10-18
++++,473783431010.0,Morgan Johansson,Skåne läns södra,S,2022-10-18
++++,509830681123.0,Ida Karkiainen,Norrbottens län,S,2022-10-18
++++,4571388712.0,Adam Reuterskiöld,Stockholms län,M,2022-10-18
++++,35473784078,Lars Johnsson,Skåne läns norra och östra,M,2022-10-18
++++,98412828516.0,Magdalena Andersson,Stockholms län,S,2022-10-18
++++,387230530213.0,Crister Carlsson,Dalarnas län,M,2022-10-18
++++,592345073323.0,Anna Sillén,Södermanlands län,M,2022-10-18
++++,5634168328.0,Nike Örbrink,Stockholms län,KD,2022-10-18
++++,723133822026.0,Carl Nordblom,Stockholms kommun,M,2022-10-18
++++,937688366013.0,Peter Hultqvist,Dalarnas län,S,2022-10-18
 +++,653904370212.0,Fredrik Olovsson,Södermanlands län,S,2022-10-18
++++,262525788220.0,Johanna Hornberger,Stockholms län,M,2022-10-18
++++,1737711629,Mikael Damberg,Stockholms län,S,2022-10-18
++++,744993950910.0,Anders Ygeman,Stockholms kommun,S,2022-10-18
