@@ -89,6 +89,7 @@ id,sourceid,name,party,area,seat,start
 0612916684825,eaf0fa85-8858-4e0e-97d8-daee0a771d1f,Johan Löfstrand,S,Östergötlands län,88,2022-09-26
 0611350076611,703f879e-0584-42da-bc98-b34333d3fadf,Susanne Nordström,M,Östergötlands län,89,2022-09-26
 02910042914,10b75fcf-dbac-4fba-9773-7e8889c237b2,Carina Ödebrink,S,Jönköpings län,90,2022-09-26
+0302393368216,f35d1113-d26c-4e3f-aec4-b175d31d384f,Camilla Rinaldo Miller,KD,Jönköpings län,91,2022-10-24
 0236597884217,cec58a3b-4801-40f0-8f41-1a4c0e301f88,Rose-Marie Carlsson,S,Malmö kommun,92,2022-09-26
 0191189790215,d47e2539-1077-4182-bdb1-d4873dda8583,Peter Ollén,M,Malmö kommun,93,2022-09-26
 0405594274208,ce71b03c-18ac-422f-a9e8-30e35b3d5bfa,Ewa Pihl Krabbe,S,Skåne läns norra och östra,94,2022-09-26
@@ -296,6 +297,7 @@ id,sourceid,name,party,area,seat,start
 0985943148917,9538493f-67cc-4713-9b97-94cc2e32c4db,Victoria Tiblom,SD,Skåne läns södra,296,2022-09-26
 0717363246311,32b8d916-3679-4cee-9235-759fff057b09,Jessica Stegrud,SD,Skåne läns södra,297,2022-09-26
 0144048894712,efb2daaa-8053-411f-9fc7-dfcca1395bb0,Ellen Juntti,M,Västra Götalands läns västra,298,2022-09-26
+098329342620,42d366d4-89aa-4ccf-8e75-38f7d2d9d5eb,Jennie Wernäng,M,Västra Götalands läns västra,299,2022-10-25
 0316505710324,7e408079-a5cd-432a-a30e-fd61fd15c65a,Janine Alm Ericson,MP,Västra Götalands läns västra,300,2022-09-26
 0899169869710,5e7c5792-d4ff-4d8e-999f-92e1a7af86f3,Helena Gellerman,L,Västra Götalands läns västra,301,2022-09-26
 0737666060225,a6a8678d-8fe2-414c-9dc4-da76ad161d23,Joakim Järrebring,S,Västra Götalands läns västra,302,2022-09-26
