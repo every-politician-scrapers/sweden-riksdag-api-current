@@ -26,6 +26,7 @@ id,item,name,area,party,start
 0744993950910,Q3375050,Anders Ygeman,Stockholms kommun,S,2022-10-18
 0837394708917,Q114031247,Anders Ådahl,Västra Götalands läns västra,C,2022-09-26
 0802091197024,Q114031213,Andrea Andersson-Tay,Stockholms län,V,2022-09-26
+0663840649717,Q115190201,Anette Rangdag,Jämtlands län,SD,2022-11-12
 02658325625,Q71062310,Angelica Lundberg,Västmanlands län,SD,2022-09-26
 0138741628520,Q18237639,Angelika Bengtsson,Stockholms kommun,SD,2022-09-26
 0810201628512,Q4766168,Ann-Charlotte Hammar Johnsson,Skåne läns västra,M,2022-09-26
@@ -171,7 +172,6 @@ id,item,name,area,party,start
 025877594729,Q50353136,John Widegren,Östergötlands län,M,2022-09-26
 0178323535715,Q114031274,Johnny Svedin,Norrbottens län,SD,2022-09-26
 025931369428,Q58837098,Jonas Andersson,Östergötlands län,SD,2022-09-26
-0211757295524,Q5740653,Josef Fransson,Blekinge län,SD,2022-09-26
 019430605328,Q42712344,Josefin Malmqvist,Stockholms län,M,2022-09-26
 0638497389621,Q4959972,Julia Kronlid,Stockholms län,SD,2022-09-26
 0719332223713,Q57168632,Juno Blom,Östergötlands län,L,2022-09-26
@@ -277,7 +277,6 @@ id,item,name,area,party,start
 0349986646724,Q64524335,Märta Stenevi,Stockholms län,MP,2022-09-26
 0890152141226,Q114031255,Nadja Awad,Örebro län,V,2022-09-26
 0587736055221,Q63344500,Niels Paarup-Petersen,Malmö kommun,C,2022-09-26
-05634168328,Q105679831,Nike Örbrink,Stockholms län,KD,2022-10-18
 065105536026,Q16633140,Niklas Karlsson,Skåne läns västra,S,2022-09-26
 0610162335824,Q114031222,Niklas Sigvardsson,Jönköpings län,S,2022-09-26
 0136268785826,Q105675478,Nima Gholam Ali Pour,Malmö kommun,SD,2022-09-26
@@ -346,6 +345,7 @@ id,item,name,area,party,start
 0796312429425,Q60732958,Viktor Wärnick,Gävleborgs län,M,2022-09-26
 0996640018922,Q18202336,Yasmine Bladelius,Skåne läns västra,S,2022-09-26
 0331791853028,Q70906950,Yasmine Eriksson,Västra Götalands läns västra,SD,2022-09-26
+0245468368228,Q115170015,Yusuf Aydin,Stockholms län,KD,2022-11-08
 0296384583518,Q9393603,Åsa Eriksson,Västmanlands län,S,2022-09-26
 0648224557612,Q60823082,Åsa Karlsson,Västerbottens län,S,2022-09-26
 0802546764724,Q269859,Åsa Westlund,Stockholms län,S,2022-09-26
