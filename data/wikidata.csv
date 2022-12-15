@@ -6,6 +6,7 @@ id,item,name,area,party,start
 0229350341619,Q4981700,Ilona Szatmari Waldau,Uppsala län,V,2022-09-26
 0475643059428,Q19976447,Jonny Cato,Skåne läns västra,C,2022-09-26
 0257612529618,Q3373169,Kenneth G Forslund,Västra Götalands läns västra,S,2022-09-26
+0309480686522,Q56640168,Leila Ali-Elmi,Göteborgs kommun,MP,2022-12-15
 0111697351426,Q114031231,Louise Eklund,Malmö kommun,L,2022-09-26
 0254695027922,Q37013194,Momodou Malcolm Jallow,Malmö kommun,V,2022-09-26
 0442073683012,Q114031273,Zara Leghissa,Norrbottens län,S,2022-09-26
@@ -25,7 +26,6 @@ id,item,name,area,party,start
 0744993950910,Q3375050,Anders Ygeman,Stockholms kommun,S,2022-10-18
 0837394708917,Q114031247,Anders Ådahl,Västra Götalands läns västra,C,2022-09-26
 0802091197024,Q114031213,Andrea Andersson-Tay,Stockholms län,V,2022-09-26
-0663840649717,Q115190201,Anette Rangdag,Jämtlands län,SD,2022-11-12
 02658325625,Q71062310,Angelica Lundberg,Västmanlands län,SD,2022-09-26
 0138741628520,Q18237639,Angelika Bengtsson,Stockholms kommun,SD,2022-09-26
 0810201628512,Q4766168,Ann-Charlotte Hammar Johnsson,Skåne läns västra,M,2022-09-26
@@ -170,6 +170,7 @@ id,item,name,area,party,start
 025877594729,Q50353136,John Widegren,Östergötlands län,M,2022-09-26
 0178323535715,Q114031274,Johnny Svedin,Norrbottens län,SD,2022-09-26
 025931369428,Q58837098,Jonas Andersson,Östergötlands län,SD,2022-09-26
+0211757295524,Q5740653,Josef Fransson,Blekinge län,SD,2022-12-13
 019430605328,Q42712344,Josefin Malmqvist,Stockholms län,M,2022-09-26
 0638497389621,Q4959972,Julia Kronlid,Stockholms län,SD,2022-09-26
 0719332223713,Q57168632,Juno Blom,Östergötlands län,L,2022-09-26
@@ -275,7 +276,6 @@ id,item,name,area,party,start
 0251136832626,Q5620151,Muharrem Demirok,Östergötlands län,C,2022-09-26
 0349986646724,Q64524335,Märta Stenevi,Stockholms län,MP,2022-09-26
 0890152141226,Q114031255,Nadja Awad,Örebro län,V,2022-09-26
-0965245623824,Q105414501,Nicklas Attefjord,Västra Götalands läns västra,MP,2022-11-11
 0587736055221,Q63344500,Niels Paarup-Petersen,Malmö kommun,C,2022-09-26
 065105536026,Q16633140,Niklas Karlsson,Skåne läns västra,S,2022-09-26
 0610162335824,Q114031222,Niklas Sigvardsson,Jönköpings län,S,2022-09-26
