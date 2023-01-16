@@ -151,7 +151,6 @@ id,item,name,area,party,start
 098329342620,Q114867560,Jennie Wernäng,Västra Götalands läns västra,M,2022-10-25
 0250583732424,Q18923356,Jesper Skalberg Karlsson,Gotlands län,M,2022-09-26
 0855286184126,Q106862781,Jessica Rodén,Västra Götalands läns södra,S,2022-09-26
-0992420223820,Q4975481,Jessica Rosencrantz,Stockholms kommun,M,2022-09-26
 0717363246311,Q63975366,Jessica Stegrud,Skåne läns södra,SD,2022-09-26
 0481460392727,Q57168784,Jessica Wetterling,Västra Götalands läns västra,V,2022-09-26
 0822010116020,Q114965717,Jim Svensk Larm,Gävleborgs län,SD,2022-11-01
@@ -179,7 +178,6 @@ id,item,name,area,party,start
 0281670919717,Q71545861,Jörgen Grubb,Västra Götalands läns östra,SD,2022-09-26
 0425115010020,Q56923131,Kadir Kasirga,Stockholms kommun,S,2022-09-26
 0627450126815,Q114031261,Kajsa Fredholm,Dalarnas län,V,2022-09-26
-0472349361027,Q6027267,Kalle Olsson,Jämtlands län,S,2022-09-26
 0607691439013,Q3544279,Karin Enström,Stockholms län,M,2022-09-26
 0246927519019,Q18245556,Karin Rågsjö,Stockholms kommun,V,2022-09-26
 027964311318,Q114133361,Karin Sundin,Örebro län,S,2022-09-26
@@ -203,6 +201,7 @@ id,item,name,area,party,start
 0254161225015,Q114031219,Lars Wistedt,Uppsala län,SD,2022-09-26
 037561614928,Q18451520,Lawen Redar,Stockholms kommun,S,2022-09-26
 0376353897112,Q20652878,Leif Nysmed,Stockholms län,S,2022-09-26
+0599661454115,Q114239963,Lena Bäckelin,Jämtlands län,S,2023-01-15
 0853395328224,Q3431836,Lena Hallengren,Kalmar län,S,2022-10-07
 0910803550317,Q114031259,Lena Johansson,Västmanlands län,S,2022-09-26
 0966063008623,Q114031216,Leonid Yurkovskiy,Stockholms län,SD,2022-09-26
@@ -262,6 +261,7 @@ id,item,name,area,party,start
 0911067396229,Q6223773,Mattias Vepsä,Stockholms kommun,S,2022-09-26
 0591055036519,Q2396467,Mauricio Rojas,Skåne läns västra,L,2022-09-26
 0591055036519,Q2396467,Mauricio Rojas,,-,2022-09-26
+0533104339313,Q115564925,Merit Lindberg,Stockholms kommun,M,2023-01-16
 0694917698222,Q62745971,Michael Rubbestad,Örebro län,SD,2022-09-26
 0554852839719,Q18649252,Mikael Dahlqvist,Värmlands län,S,2022-09-26
 014744660015,Q3372917,Mikael Damberg,Stockholms län,S,2022-10-18
