@@ -24,7 +24,7 @@ id,sourceid,name,party,area,seat,start
 0229760896014,6ad91da1-1287-4e8f-9778-3315390fdfca,Anders Jonsson,C,Gävleborgs län,23,2022-09-26
 0956444284814,56698f88-e33a-41fe-9c62-a9c53b3e793d,Per Bolund,MP,Stockholms kommun,24,2022-09-26
 0723133822026,645d7ec6-f5b4-4aa7-894c-bb86da008bae,Carl Nordblom,M,Stockholms kommun,25,2022-10-18
-0533104339313,20345589-95e2-4dc0-aec9-89a5c85d55dc,Merit Lindberg,M,Stockholms kommun,26,2023-01-16
+0533104339313,20345589-95e2-4dc0-aec9-89a5c85d55dc,Merit Frost Lindberg,M,Stockholms kommun,26,2023-01-16
 0766496753128,cf017275-5272-4506-a686-4e1d8edc5ab6,Fredrik Malm,L,Stockholms län,27,2022-09-26
 0313390540217,9cd4ce1a-c1f5-4743-aed6-8e60569e9947,Ingela Nylund Watz,S,Stockholms län,28,2022-09-26
 0245468368228,533ec261-0b17-4458-b6bd-e3e7e2cad6d6,Yusuf Aydin,KD,Stockholms län,29,2022-11-08
@@ -45,6 +45,7 @@ id,sourceid,name,party,area,seat,start
 0836001490919,8c343e73-ddab-428a-87aa-0ab8e2879ce4,Ulrika Heie,C,Västra Götalands läns östra,44,2022-09-26
 0828721176319,641344b2-dc65-4282-b308-8fca005983a1,Sten Bergheden,M,Västra Götalands läns östra,45,2022-09-26
 0387230530213,392a2ddd-593e-430b-9181-794b99a1ec7c,Crister Carlsson,M,Dalarnas län,46,2022-10-18
+0112333043027,bab0f33c-507a-4e6f-a3f7-7239c46732a2,Rasmus Giertz,SD,Dalarnas län,47,2023-01-17
 0588282566419,db90fc94-9496-4748-9b84-bcfadc24af74,Lars Beckman,M,Gävleborgs län,48,2022-09-26
 0773497241728,dd0d47ea-5e71-4ec9-b987-3261320ac857,Roger Hedlund,SD,Gävleborgs län,49,2022-09-26
 014386615025,979e9852-69ed-4077-8140-52ab99414a6c,Ali Esbati,V,Stockholms kommun,50,2022-09-26
@@ -71,7 +72,7 @@ id,sourceid,name,party,area,seat,start
 0977592683711,d7c3282f-83e4-11d4-ae60-0050040c9b55,Magnus Jacobsson,KD,Västra Götalands läns norra,71,2022-09-26
 0174490514929,7e0f8999-6a4e-4e2c-835b-eaa2c1a526d7,Marcus Andersson,S,Västra Götalands läns östra,72,2022-11-14
 0281670919717,086bff3d-8adb-47c2-b5dc-86d4a9f1b191,Jörgen Grubb,SD,Västra Götalands läns östra,73,2022-09-26
-0112333043027,bab0f33c-507a-4e6f-a3f7-7239c46732a2,Rasmus Giertz,SD,Dalarnas län,74,2022-09-26
+0998575875190,6e97eb35-d3aa-4dcb-a974-4f22934629cb,Daniel Lönn,SD,Dalarnas län,74,2023-01-18
 023732429721,939a9917-d0d3-40cc-bef4-96d29d140fdf,Sofie Eriksson,S,Dalarnas län,75,2022-09-26
 0822010116020,0f87cae0-af18-4754-b8c2-0e3d09692fc4,Jim Svensk Larm,S,Gävleborgs län,76,2022-11-01
 0796312429425,7cdc7712-4bb7-4361-8b72-8f98a111d0c5,Viktor Wärnick,M,Gävleborgs län,77,2022-09-26
@@ -177,7 +178,7 @@ id,sourceid,name,party,area,seat,start
 0866055333028,8310e472-996b-4c8a-bce5-4d09fb20a66a,Alexandra Anstrell,M,Stockholms län,177,2022-09-26
 0506541436524,1d28738c-16d7-48f3-bb2a-e8cdcf348ca1,Sanne Lennström,S,Uppsala län,178,2022-09-26
 075747847023,82c56b96-b106-4b16-958c-98b153d02639,Gustaf Lantz,S,Uppsala län,179,2022-09-26
-0150118366721,1c03e794-a9a3-43d5-810a-7951e4c70901,Linda Westerlund Snecker,V,Östergötlands län,180,2022-09-26
+0150118366721,1c03e794-a9a3-43d5-810a-7951e4c70901,Linda Snecker,V,Östergötlands län,180,2022-09-26
 0315499690028,3d764cf6-705b-460b-8226-df8f1226b27b,Teresa Carvalho,S,Östergötlands län,181,2022-09-26
 0803790353229,77b55dda-a56c-4e88-b6a8-a6255ff783fb,Azra Muranovic,S,Jönköpings län,182,2022-09-26
 0610162335824,1bd865a4-5123-43ed-9f82-18ded584c0f1,Niklas Sigvardsson,S,Jönköpings län,183,2022-09-26
