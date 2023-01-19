@@ -81,6 +81,7 @@ id,item,name,area,party,start
 0635943298419,Q114772325,Dan Hovskär,Västra Götalands läns östra,KD,2022-10-18
 0665485817222,Q18600515,Daniel Bäckström,Värmlands län,C,2022-09-26
 0504851635310,Q5798982,Daniel Helldén,Stockholms kommun,MP,2022-09-26
+0998575875190,Q116256367,Daniel Lönn,Dalarnas län,SD,2023-01-18
 0340418158820,Q114031267,Daniel Persson,Gävleborgs län,SD,2022-09-26
 07012286624,Q18245374,Daniel Riazat,Stockholms län,V,2022-09-26
 0245113256029,Q114030385,Daniel Vencu Velasquez Castro,Stockholms kommun,S,2022-09-26
@@ -250,7 +251,6 @@ id,item,name,area,party,start
 0983984918111,Q3373058,Matilda Ernkrans,Örebro län,S,2022-10-18
 0386912710815,Q114031215,Mats Arkhem,Stockholms län,SD,2022-09-26
 0538387395826,Q18239250,Mats Green,Jönköpings län,M,2022-09-26
-0365748677411,Q71054855,Mats Nordberg,Dalarnas län,SD,2022-09-26
 0720250789315,Q57168927,Mats Wiking,Västra Götalands läns norra,S,2022-09-26
 0130789484021,Q5887149,Mattias Bäckström Johansson,Kalmar län,SD,2022-09-26
 0671571847522,Q110793999,Mattias Eriksson Falk,Södermanlands län,SD,2022-09-26
@@ -301,7 +301,7 @@ id,item,name,area,party,start
 0274462857213,Q5969317,Petter Löberg,Västra Götalands läns södra,S,2022-09-26
 0926002991620,Q19976333,Pontus Andersson,Västerbottens län,SD,2022-09-26
 0157618290428,Q114031248,Rashid Farivar,Västra Götalands läns västra,SD,2022-09-26
-0112333043027,Q114240008,Rasmus Giertz,Dalarnas län,SD,2022-09-26
+0112333043027,Q114240008,Rasmus Giertz,Dalarnas län,SD,2023-01-17
 0546731406922,Q57168699,Rebecka Le Moine,Östergötlands län,MP,2022-09-26
 0803753212716,Q5890031,Richard Jomshof,Blekinge län,SD,2022-09-26
 0132818093422,Q6015398,Rickard Nordin,Göteborgs kommun,C,2022-09-26
