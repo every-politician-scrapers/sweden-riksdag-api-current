@@ -98,6 +98,7 @@ id,item,name,area,party,start
 0144048894712,Q4957570,Ellen Juntti,Västra Götalands läns västra,M,2022-09-26
 0161972600410,Q98545439,Elsa Widding,Stockholms kommun,SD,2022-09-26
 0360160202728,Q104214592,Emma Ahlström Köster,Skåne läns södra,M,2022-10-12
+0624040854527,Q57168687,Emma Berginger,Skåne läns södra,MP,2023-02-26
 0880137451720,Q18244660,Emma Nohrén,Göteborgs kommun,MP,2022-09-26
 091303475611,Q60144183,Eric Palmqvist,Norrbottens län,SD,2022-09-26
 010643534813,Q71059733,Eric Westroth,Jönköpings län,SD,2022-09-26
@@ -179,6 +180,7 @@ id,item,name,area,party,start
 0281670919717,Q71545861,Jörgen Grubb,Västra Götalands läns östra,SD,2022-09-26
 0425115010020,Q56923131,Kadir Kasirga,Stockholms kommun,S,2022-09-26
 0627450126815,Q114031261,Kajsa Fredholm,Dalarnas län,V,2022-09-26
+0472349361027,Q6027267,Kalle Olsson,Jämtlands län,S,2023-02-25
 0607691439013,Q3544279,Karin Enström,Stockholms län,M,2022-09-26
 0246927519019,Q18245556,Karin Rågsjö,Stockholms kommun,V,2022-09-26
 027964311318,Q114133361,Karin Sundin,Örebro län,S,2022-09-26
@@ -202,7 +204,6 @@ id,item,name,area,party,start
 0254161225015,Q114031219,Lars Wistedt,Uppsala län,SD,2022-09-26
 037561614928,Q18451520,Lawen Redar,Stockholms kommun,S,2022-09-26
 0376353897112,Q20652878,Leif Nysmed,Stockholms län,S,2022-09-26
-0599661454115,Q114239963,Lena Bäckelin,Jämtlands län,S,2023-01-15
 0853395328224,Q3431836,Lena Hallengren,Kalmar län,S,2022-10-07
 0910803550317,Q114031259,Lena Johansson,Västmanlands län,S,2022-09-26
 0966063008623,Q114031216,Leonid Yurkovskiy,Stockholms län,SD,2022-09-26
@@ -333,7 +334,6 @@ id,item,name,area,party,start
 0284192765516,Q5711551,Tomas Eneroth,Kronobergs län,S,2022-10-18
 0457722435319,Q62287119,Tomas Kronståhl,Kalmar län,S,2022-09-26
 0121015874810,Q114031233,Torsten Elofsson,Skåne läns norra och östra,KD,2022-09-26
-0584183916016,Q520956,Ulf Holm,Skåne läns södra,MP,2023-01-12
 0591020192311,Q114031271,Ulf Lindholm,Västernorrlands län,SD,2022-09-26
 0410640630411,Q6012202,Ulrik Nilsson,Västra Götalands läns södra,M,2022-09-26
 0836001490919,Q4987958,Ulrika Heie,Västra Götalands läns östra,C,2022-09-26
