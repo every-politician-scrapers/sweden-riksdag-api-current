@@ -98,7 +98,6 @@ id,item,name,area,party,start
 0144048894712,Q4957570,Ellen Juntti,Västra Götalands läns västra,M,2022-09-26
 0161972600410,Q98545439,Elsa Widding,Stockholms kommun,SD,2022-09-26
 0360160202728,Q104214592,Emma Ahlström Köster,Skåne läns södra,M,2022-10-12
-0624040854527,Q57168687,Emma Berginger,Skåne läns södra,MP,2023-02-26
 0880137451720,Q18244660,Emma Nohrén,Göteborgs kommun,MP,2022-09-26
 091303475611,Q60144183,Eric Palmqvist,Norrbottens län,SD,2022-09-26
 010643534813,Q71059733,Eric Westroth,Jönköpings län,SD,2022-09-26
@@ -223,7 +222,8 @@ id,item,name,area,party,start
 0737824098113,Q5574173,Magnus Berntsson,Göteborgs kommun,KD,2022-09-26
 0977592683711,Q5826586,Magnus Jacobsson,Västra Götalands läns norra,KD,2022-09-26
 0792733370419,Q18244900,Magnus Oscarsson,Östergötlands län,KD,2022-09-26
-0641953830512,Q105095611,Magnus Persson,Skåne läns norra och östra,SD,2022-09-26
+0641953830512,Q18245020,Magnus Persson,Dalarnas län,SD,2018-09-24
+0641953830512,Q18245020,Magnus Persson,Skåne läns norra och östra,SD,2022-09-26
 074310796828,Q114772470,Magnus Resare,Värmlands län,M,2022-10-18
 0198917587520,Q18243244,Maj Karlsson,Göteborgs kommun,V,2022-09-26
 0770363683317,Q108420017,Malin Björk,Stockholms kommun,C,2022-09-26
@@ -334,6 +334,7 @@ id,item,name,area,party,start
 0284192765516,Q5711551,Tomas Eneroth,Kronobergs län,S,2022-10-18
 0457722435319,Q62287119,Tomas Kronståhl,Kalmar län,S,2022-09-26
 0121015874810,Q114031233,Torsten Elofsson,Skåne läns norra och östra,KD,2022-09-26
+0584183916016,Q520956,Ulf Holm,Skåne läns södra,MP,2023-03-04
 0591020192311,Q114031271,Ulf Lindholm,Västernorrlands län,SD,2022-09-26
 0410640630411,Q6012202,Ulrik Nilsson,Västra Götalands läns södra,M,2022-09-26
 0836001490919,Q4987958,Ulrika Heie,Västra Götalands läns östra,C,2022-09-26
