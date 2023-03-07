@@ -159,7 +159,6 @@ id,item,name,area,party,start
 051207517226,Q518776,Jimmie Åkesson,Jönköpings län,SD,2022-09-26
 0170585430421,Q18246207,Jimmy Ståhl,Göteborgs kommun,SD,2022-09-26
 0737666060225,Q57297792,Joakim Järrebring,Västra Götalands läns västra,S,2022-09-26
-0376395541120,Q56706633,Joakim Sandell,Malmö kommun,S,2022-09-26
 0750092881021,Q116482970,Joanna Lewerentz,Stockholms län,M,2023-01-30
 0964730940415,Q5554920,Johan Andersson,Östergötlands län,S,2022-09-26
 0877778793323,Q20095387,Johan Büser,Göteborgs kommun,S,2022-09-26
@@ -222,8 +221,8 @@ id,item,name,area,party,start
 0737824098113,Q5574173,Magnus Berntsson,Göteborgs kommun,KD,2022-09-26
 0977592683711,Q5826586,Magnus Jacobsson,Västra Götalands läns norra,KD,2022-09-26
 0792733370419,Q18244900,Magnus Oscarsson,Östergötlands län,KD,2022-09-26
-0641953830512,Q18245020,Magnus Persson,Dalarnas län,SD,2018-09-24
 0641953830512,Q18245020,Magnus Persson,Skåne läns norra och östra,SD,2022-09-26
+0641953830512,Q18245020,Magnus Persson,Dalarnas län,SD,2018-09-24
 074310796828,Q114772470,Magnus Resare,Värmlands län,M,2022-10-18
 0198917587520,Q18243244,Maj Karlsson,Göteborgs kommun,V,2022-09-26
 0770363683317,Q108420017,Malin Björk,Stockholms kommun,C,2022-09-26
@@ -347,6 +346,7 @@ id,item,name,area,party,start
 0996640018922,Q18202336,Yasmine Bladelius,Skåne läns västra,S,2022-09-26
 0331791853028,Q70906950,Yasmine Eriksson,Västra Götalands läns västra,SD,2022-09-26
 0245468368228,Q115170015,Yusuf Aydin,Stockholms län,KD,2022-11-08
+0990587970528,Q116996454,Zinaida Kajevic,Malmö kommun,S,2023-03-06
 0296384583518,Q9393603,Åsa Eriksson,Västmanlands län,S,2022-09-26
 0648224557612,Q60823082,Åsa Karlsson,Västerbottens län,S,2022-09-26
 0802546764724,Q269859,Åsa Westlund,Stockholms län,S,2022-09-26
